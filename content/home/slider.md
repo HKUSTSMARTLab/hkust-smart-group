@@ -35,7 +35,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: wsi.png
+        media: wsi.jpg
     - title:  Patient-centered Medical Imaging and Analysis
       content: AI in Multimodal Breast Cancer Analysis
       align: left
