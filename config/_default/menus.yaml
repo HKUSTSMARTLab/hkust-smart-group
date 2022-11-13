@@ -10,11 +10,11 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: People
-    url: people
-    weight: 30
   - name: PI
     url: author/hao-chen
+    weight: 30
+  - name: Team
+    url: people
     weight: 40
   - name: Events
     url: event
