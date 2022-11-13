@@ -53,7 +53,6 @@ content:
 design:
   columns: '1'
 ---
-Positions (PhDs/RAs/Postdocs/Interns) are available and strong self-motivated candidate is preferred. Interested candidates are welcome to send their resumes, transcripts and other relevant
-materials to the following email. Please indicate the application position in the subject of email.
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=JuCEMpNzqyVTLQiNouHGkgVkDSUdnRYlmMt7amzdbLw'></script>
