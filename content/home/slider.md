@@ -17,7 +17,7 @@ content:
   slides:
     - title: Welcome to SMART Lab
       # content: World-Class AI & Medical Image Analysis Lab from HKUST
-      align: center
+      align: up
       background:
         position: right
         color: '#666'
