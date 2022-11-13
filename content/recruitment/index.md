@@ -71,3 +71,7 @@ assistant are also available. A minimum of 3 months is required (remote mode is 
   Interested candidates are welcome to send their resumes, transcripts and other relevant
 materials to Prof. Chen's email: jhc[at]ust.hk. Please indicate the application position in the subject
 of email.
+
+<br>
+<br>
+<br>
