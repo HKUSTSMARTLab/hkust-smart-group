@@ -1,4 +1,4 @@
-
+---
 # Publication name and optional abbreviated publication name.
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
