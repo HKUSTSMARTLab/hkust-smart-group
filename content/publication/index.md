@@ -259,3 +259,6 @@ design:
 
 <a href="https://www.sciencedirect.com/science/article/pii/B9780128104088000080?via%3Dihub">1. Deep Cascaded Networks for Sparsely Distributed Object Detection from Medical Images</a><i><br>Chen, Hao; Dou, Qi; Yu, Lequan; Qin, Jing; Zhao, Lei; Mok, Vincent C.T.; Wang, Defeng; Shi, Lin; Heng, Pheng-Ann.Deep Learning for Medical Image Analysis / Edited by S. Kevin Zhou, Hayit Greenspan, Dinggang Shen. Elsevier Inc., 2017, p. 133-154, Ch. 6</br></i>
 
+<br>
+<br>
+<br>
