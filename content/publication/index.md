@@ -120,7 +120,7 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-67558-9_22">68. AGNet: Attention-guided network for surgical tool presence detection</a><i><br>Hu, Xiaowei; Yu, Lequan; Chen, H.; Qin, Jing; Heng, Pheng-Ann. <b> Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support</b>, 2017 </br></i>
 <i> 2016 </i><br/>
-<a href="https://ieeexplore.ieee.org/document/7493482">67. Automated mitosis detection with deep regression networks</a><i><br>Chen, Hao; Wang, Xi; Heng, Pheng Ann. <b> Proceedings of International Symposium on Biomedical Imaging, 2016 </br></i>
+<a href="https://ieeexplore.ieee.org/document/7493482">67. Automated mitosis detection with deep regression networks</a><i><br>Chen, Hao; Wang, Xi; Heng, Pheng Ann. <b> Proceedings of International Symposium on Biomedical Imaging</b>, 2016 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7780642">66. DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann. <b> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition</b>, 2016</br></i>
 
