@@ -187,9 +187,9 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/9052757">36. 3D Roi-aware U-net for Accurate and Efficient Colorectal Tumor Segmentation</a><i><br>Huang, Yi-Jie; Dou, Qi; Wang, Zi-Xian; Liu, Li-Zhi; Jin, Ying; Li, Chao-Feng; Wang, Lisheng; Chen, Hao; Xu, Rui-Hua. <b>IEEE Transactions on Cybernetics</b>, 2020 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/9110911">35. Deep mining external imperfect data for chest X-ray disease screening</a><i><br>Luo, Luyang; Yu, Lequan; Chen, Hao; Liu, Quande; Wang, Xi; Xu, Jiaqi; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
+<a href="https://ieeexplore.ieee.org/document/9110911">35. Deep Mining External Imperfect Data for Chest X-ray Disease Screening</a><i><br>Luo, Luyang; Yu, Lequan; Chen, Hao; Liu, Quande; Wang, Xi; Xu, Jiaqi; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 
-<a href="https://www.nature.com/articles/s42256-020-0183-4">34. Towards a new generation of artificial intelligence in China</a><i><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. <b>Nature Machine Intelligence</b>, 2020 </br></i>
+<a href="https://www.nature.com/articles/s42256-020-0183-4">34. Towards A New Generation of Artificial Intelligence in China</a><i><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. <b>Nature Machine Intelligence, <font color="#FF0000">WAIC SAIL Award</font></b>, 2020 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8880654">33. A Multi-Organ Nucleus Segmentation Challenge</a><i><br>Zhou Xiaoyang; Chen, Hao. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 <i> <b>2019 </b></i><br/>
