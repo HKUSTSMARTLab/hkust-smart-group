@@ -94,7 +94,7 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_71">81. IRNet: Instance relation network for overlapping cervical cell segmentation</a><i><br>Zhou, Yanning; Chen, Hao; Xu, Jiaqi; Dou, Qi; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2019 </br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-32226-7_46">80. PRSNet: Part Relation and Selection Network for Bone Age Assessment</a><i><br>Ji, Yuanfeng; Chen, Hao; Lin, Dan; Wu, Xiaohua; Lin, Di. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention<b>, 2019 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-32226-7_46">80. PRSNet: Part Relation and Selection Network for Bone Age Assessment</a><i><br>Ji, Yuanfeng; Chen, Hao; Lin, Dan; Wu, Xiaohua; Lin, Di. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2019 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_5">79. Unifying structure analysis and surrogate-driven function regression for glaucoma OCT image screening</a><i><br>Wang, Xi; Chen, Hao; Luo, Luyang; Ran, An-ran; Chan, Pomen P.; Tham, Clement C.; Cheung, Carol Y.; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2019 </br></i>
 <i> 2018 </i><br/>
