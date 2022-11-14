@@ -56,7 +56,7 @@ design:
 ---
 <b>Conference</b><br/>
 <i> <small>2022 </small></i><br/>
-<a href="https://ieeexplore.ieee.org/document/9761597">99. Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a><i><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. International Symposium on Biomedical Imaging, 2022 </br></i>
+<a href="https://ieeexplore.ieee.org/document/9761597">99. Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a><i><br><small>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. <b>International Symposium on Biomedical Imaging</b>, 2022 </small></br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9761652">98. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. International Symposium on Biomedical Imaging, 2022 </br></i>
 
