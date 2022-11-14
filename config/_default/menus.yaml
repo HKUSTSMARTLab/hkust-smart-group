@@ -11,7 +11,7 @@ main:
     url: post
     weight: 20
   - name: PI
-    url: author/hao-chen
+    url: people/hao-chen
     weight: 30
   - name: Team
     url: people
