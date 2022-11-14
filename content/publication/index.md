@@ -55,21 +55,21 @@ design:
   columns: '0'
 ---
 <b>Conference</b><br/>
-<i> 2022 </i><br/>
-<a href="https://ieeexplore.ieee.org/document/9761597">99. Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a><i><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
+<i> <b>2022</b> </i><br/>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">99. InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a><i><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/9761652">98. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
+<a href="https://ieeexplore.ieee.org/document/9761597">98. Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a><i><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">97. InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a><i><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
-<i> 2021 </i><br/>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">96. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021 </br></i>
+<a href="https://ieeexplore.ieee.org/document/9761652">97. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
+<i> <b>2021</b> </i><br/>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">96. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention, <font color="#FF0000">Oral</font></b>, 2021 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_50">95. OXnet: Deep Omni-Supervised Thoracic Disease Detection from Chest X-Rays</a><i><br>Luo, Luyang; Chen, Hao; Zhou, Yanning; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021 </br></i>
-<i> 2020 </i><br/>
+<i> <b>2020</b> </i><br/>
 <a href="https://epos.myesr.org/poster/esr/ecr2020/C-05006">94. Simulation and Clinical Multi-Reader Study using Clinically-Led Deep Learning Automated Radiograph Triaging System</a><i><br>Du, R; Xie, C.; Yu, J. M. L.; Onder, O.F.; Lai, C. T.-M.; Chen, Hao; Vardhanabhuti, V. <b>European Congress of Radiology</b>, 2020 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-59710-8_51">93. Deep semi-supervised knowledge distillation for overlapping cervical cell instance segmentation</a><i><br>Zhou, Yanning; Chen, Hao; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2020 </br></i>
-<i> 2019 </i><br/>
+<i> <b>2019 </b></i><br/>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/3874">92. Synergistic image and feature adaptation: Towards cross-modality domain adaptation for medical image segmentation</a><i><br>Chen, Cheng; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2019 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8759203">91. Robust learning at noisy labeled medical images: Applied to skin lesion classification</a><i><br>Xue, Cheng; Dou, Qi; Shi, Xueying; Chen, Hao; Heng, Pheng-Ann. <b>International Symposium on Biomedical Imaging</b>, 2019 </br></i>
@@ -97,7 +97,7 @@ design:
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-32226-7_46">80. PRSNet: Part Relation and Selection Network for Bone Age Assessment</a><i><br>Ji, Yuanfeng; Chen, Hao; Lin, Dan; Wu, Xiaohua; Lin, Di. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2019 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_5">79. Unifying structure analysis and surrogate-driven function regression for glaucoma OCT image screening</a><i><br>Wang, Xi; Chen, Hao; Luo, Luyang; Ran, An-ran; Chan, Pomen P.; Tham, Clement C.; Cheung, Carol Y.; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2019 </br></i>
-<i> 2018 </i><br/>
+<i> <b>2018 </b></i><br/>
 <a href="https://www.ijcai.org/proceedings/2018/96">78. Unsupervised cross-modality domain adaptation of convnets for biomedical image segmentations with adversarial loss</a><i><br>Dou, Qi; Ouyang, Cheng; Chen, Cheng; Chen, Hao; Heng, Pheng-Ann. <b>IJCAI International Joint Conference on Artificial Intelligence</b>, 2018 </br></i>
 
 <a href="https://arxiv.org/abs/1808.03887">77. Semi-supervised Skin Lesion Segmentation via Transformation Consistent Self-ensembling Model</a><i><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> BMVC </b>, 2018</br></i>
@@ -111,7 +111,7 @@ design:
 <a href="https://ojs.aaai.org/index.php/AAAI/article/download/11900/11759">73. SFCN-OPI: Detection and fine-grained classification of nuclei using sibling FCN with objectness prior interaction</a><i><br>Zhou, Yanning; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b> Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2018 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-00919-9_17">72. Semantic-aware generative adversarial nets for unsupervised domain adaptation in chest X-ray segmentation</a><i><br>Chen, Cheng; Dou, Qi; Chen, Hao; Heng, Pheng-Ann. <b> International Workshop on Machine Learning in Medical Imaging</b>, 2018 </br></i>
-<i> 2017 </i><br/>
+<i> <b>2017 </b></i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-66185-8_33">71. Automatic 3D cardiovascular MR segmentation with densely-connected volumetric convnets</a><i><br>Yu, Lequan; Cheng, Jie-Zhi; Dou, Qi; Yang, Xin; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2017 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-66179-7_72">70. Automated pulmonary nodule detection via 3D convnets with online sample filtering and hybrid-loss residual learning</a><i><br>Dou, Qi; Chen, Hao; Jin, Yueming; Lin, Huangjing; Qin, Jing; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2017 </br></i>
@@ -119,7 +119,7 @@ design:
 <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14719/13744">69. Volumetric convnets with mixed residual connections for automated prostate segmentation from 3d MR images</a><i><br>Yu, Lequan; Yang, Xin; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b> Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2017 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-67558-9_22">68. AGNet: Attention-guided network for surgical tool presence detection</a><i><br>Hu, Xiaowei; Yu, Lequan; Chen, H.; Qin, Jing; Heng, Pheng-Ann. <b> Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support</b>, 2017 </br></i>
-<i> 2016 </i><br/>
+<i> <b>2016 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/7493482">67. Automated mitosis detection with deep regression networks</a><i><br>Chen, Hao; Wang, Xi; Heng, Pheng Ann. <b> Proceedings of International Symposium on Biomedical Imaging</b>, 2016 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7780642">66. DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann. <b> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition</b>, 2016</br></i>
@@ -135,7 +135,7 @@ design:
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-46723-8_56">61. Iterative multi-domain regularized deep learning for anatomical structure detection and segmentation from ultrasound images</a><i><br>Chen, Hao; Zheng, Yefeng; Park, Jin-Hyeong; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2016</br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-46723-8_18">60. 3D deeply supervised network for automatic liver segmentation from CT volumes</a><i><br>Dou, Qi; Chen, Hao; Jin, Yueming; Yu, Lequan; Qin, Jing; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2016 </br></i>
-<i> 2015 </i><br/>
+<i> <b>2015 </b></i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-24553-9_63">59. Automatic localization and identification of vertebrae in spine CT via a joint learning model with deep neural networks</a><i><br>Chen, Hao; Shen, Chiyao; Qin, Jing; Ni, Dong; Shi, Lin; Cheng, Jack C.Y; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2015 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-24553-9_62">58. Automatic fetal ultrasound standard plane detection using knowledge transferred recurrent neural networks</a><i><br>Chen, Hao; Dou, Qi; Ni, Dong; Cheng, Jie-Zhi; Qin, Jing; Li, Shengli; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2015 </br></i>
@@ -145,18 +145,18 @@ design:
 <a href="https://ieeexplore.ieee.org/document/7163984">56. Automatic detection of cerebral microbleeds via deep learning based 3D feature representation</a><i><br>Chen, Hao; Yu, Lequan; Dou, Qi; Shi, Lin; Mok, Vincent C.T.; Heng, Pheng Ann. <b> IEEE International Symposium on Biomedical Imaging</b>, 2015 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7410651/">55. Square Localization for Efficient and Accurate Object Detection</a><i><br>Lu, Cewu; Lu, Yongyi; Chen, Hao; Tang, Chi Keung. <b> Proceedings: IEEE International Conference on Computer Vision</b>, 2015 </br></i>
-<i> 2014 </i><br/>
+<i> <b>2014 </b></i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-10581-9_16">54. Fetal Abdominal Standard Plane Localization Through Representation Learning with Knowledge Transfer</a><i><br>Chen, Hao; Ni, Dong; Yang, Xin; Li, Shengli; Heng, Pheng Ann. <b>International Workshop on Machine Learning in Medical Imaging</b>, 2014</br></i>
 
 
 <b>Journal</b><br/>
-<i> 2022 </i><br/>
+<i> <b>2022 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/9740140">53. PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a><i><br>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. <b>IEEE Transactions on Medical Imaging</b>, 2022 </br></i>
 
 <a href="https://www.frontiersin.org/articles/10.3389/fmed.2022.860574/full">52. Three-Dimensional Multi-Task Deep Learning Model to Detect Glaucomatous Optic Neuropathy and Myopic Features From Optical Coherence Tomography Scans: A Retrospective Multi-Centre Study</a><i><br>Ran, An Ran; Wang, Xi; Chan, Poemen P.; Chan, Noel C.; Yip, Wilson; Young, Alvin L.; Wong, Mandy O.M.; Yung, Hon-Wah; Chang, Robert T.; Mannil, Suria S.; Tham, Yih Chung; Cheng, Ching-Yu; Chen, Hao; Li, Fei; Zhang, Xiulan; Heng, Pheng-Ann; Tham, Clement C.; Cheung, Carol Y.. <b>Frontiers in Medicine</b>, 2022 </br></i>
 
 <a href="https://academic.oup.com/jnci/article-abstract/114/2/220/6362894?redirectedFrom=fulltext&login=false">51. An Artificial Intelligence System for the Detection of Bladder Cancer via Cystoscopy: A Multicenter Diagnostic Study</a><i><br>Wu, Shaoxu; Chen, Xiong; Pan, Jiexin; Dong, Wen; Diao, Xiayao; Zhang, Ruiyun; Zhang, Yonghai; Qian, Guang; Chen, Hao; Lin, Haotian; Xu, Shizhong; Chen, Zhiwen; Zhou, Xiaozhou; Mei, Hongbing; Wu, Chenglong; Lv, Qiang; Yuan, Baorui; Chen Zeshi; Liao, Wenjiao; Yang, Xuefan; Chen Hage; Huang, Jian; Lin, Tianxin. <b>Journal of the National Cancer Institute</b>, 2022 </br></i>
-<i> 2021 </i><br/>
+<i> <b>2021 </b></i><br/>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521000013?via%3Dihub">50. Dual-path network with synergistic grouping loss and evidence driven risk stratification for whole slide cervical image analysis</a><i><br>Lin, Huangjing; Chen, Hao; Wang, Xi; Wang, Qiong; Wang, Liansheng; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2021 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9104928">49. Transformation-consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation</a><i><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Xing, Lei; Heng, Pheng-Ann. <b>IEEE Transactions on Neural Networks and Learning Systems</b>, 2021 </br></i>
@@ -170,7 +170,7 @@ design:
 <a href="https://www.frontiersin.org/articles/10.3389/fendo.2021.771997/full">45. Prediction of Treatment Response According to ASAS-EULAR Management Recommendations in 1 Year for Hip Involvement in Axial Spondyloarthritis Based on MRI and Clinical Indicators</a><i><br>Xie, Zhuoyao; Lu, Zixiao; Chen, Hao; Ye, Qiang; Guo, Chang; Zheng, Kai; Li, Xin; Xie, Qiuxia; Hu, Shaoyong; Zhou, Quan; Zhao, Yinghua. <b>Frontiers in Endocrinology</b>, 2021 </br></i>
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/jgh.15327">44. Potentials of AI in medical image analysis in Gastroenterology and Hepatology</a><i><br>Chen, Hao; Sung, Joseph J.Y.. <b>Journal of Gastroenterology and Hepatology</b>, 2021 </br></i>
-<i> 2020 </i><br/>
+<i> <b>2020 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/8822590">43. Weakly Supervised Deep Learning for Whole Slide Lung Cancer Image Analysis</a><i><br>Wang, Xi; Chen, Hao; Gan, Caixia; Lin, Huangjing; Dou, Qi; Tsougenis, Efstratios; Huang, Qitao; Cai, Muyan; Heng, Pheng-Ann. <b>IEEE Transactions on Cybernetics</b>, 2020 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9130071">42. Rectifying Supporting Regions with Mixed and Active Supervision for Rib Fracture Recognition</a><i><br>Huang, Yi-Jie; Liu, Weiping; Wang, Xiuying; Fang, Qu; Wang, Renzhen; Wang, Yi; Chen, Huai; Chen, Hao; Meng, Deyu; Wang, Lisheng. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
@@ -192,7 +192,7 @@ design:
 <a href="https://www.nature.com/articles/s42256-020-0183-4">34. Towards a new generation of artificial intelligence in China</a><i><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. <b>Nature Machine Intelligence</b>, 2020 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8880654">33. A Multi-Organ Nucleus Segmentation Challenge</a><i><br>Zhou Xiaoyang; Chen, Hao. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
-<i> 2019 </i><br/>
+<i> <b>2019 </b></i><br/>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.2019182012">32. Deep learning for automated contouring of primary tumor volumes by MRI for nasopharyngeal carcinoma</a><i><br>Lin, Li; Dou, Qi; Jin, Yue-Ming; Zhou, Guan-Qun; Tang, Yi-Qiang; Chen, Wei-Lin; Su, Bao-An; Liu, Feng; Tao, Chang-Juan; Jiang, Ning; Li, Jun-Yun; Tang, Ling-Long; Xie, Chuan-Miao; Huang, Shao-Min; Ma, Jun; Heng, Pheng-Ann; Wee, Joseph T.S.; Chua, Melvin L.K.; Chen, Hao; Sun, Ying. <b>Radiology</b>, 2019 </br></i>
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmri.26721">31. Weakly supervised 3D deep learning for breast cancer classification and localization of the lesions in MR images</a><i><br>Zhou, Juan; Luo, Lu-Yang; Dou, Qi; Chen, Hao; Chen, Cheng; Li, Gong-Jie; Jiang, Ze-Fei; Heng, Pheng-Ann. <b>Journal of Magnetic Resonance Imaging</b>, 2019 </br></i>
@@ -212,7 +212,7 @@ design:
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811917303348?via%3Dihub">24. SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection</a><i><br>Hu, Xiaowei; Xu, Xuemiao; Xiao, Yongjie; Chen, Hao; He, Shengfeng; Qin, Jing; Heng, Pheng-Ann. <b>IEEE Transactions on Intelligent Transportation Systems</b>, 2019 </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841519300842?via%3Dihub">23. RMDL: Recalibrated multi-instance deep learning for whole slide gastric image classification</a><i><br>Wang, Shujun; Zhu, Yaxi; Yu, Lequan; Chen, Hao; Lin, Huangjing; Wan, Xiangbo; Fan, Xinjuan; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2019 </br></i>
-<i> 2018 </i><br/>
+<i> <b>2018 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/8240734">22. SV-RCNet: Workflow recognition from surgical videos using recurrent convolutional network</a><i><br>Jin, Yueming; Dou, Qi; Chen, Hao; Yu, Lequan; Qin, Jing; Fu, Chi-Wing; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2018 </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0360301618324714?via%3Dihub">21. Development and Validation of A Deep Learning Algorithm for Automated Delineation of Primary Tumor for Nasopharyngeal Carcinoma from Multimodal Magnetic Resonance Images</a><i><br>Sun, Y.; Dou, Q.; Chen, Hao; Jin, Y.M.; Zhou, G.Q.; Tang, Y.Q.; Chen, W.L.; Su, B.A.; Liu, F.; Tao, C.J.; Jiang, N.; Li, J.Y.; Tang, L.; Xie, C.; Huang, S.M.; Heng, P.A.. <b>International Journal of Radiation Oncology Biology Physics</b>, 2018 </br></i>
@@ -222,7 +222,7 @@ design:
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518300136?via%3Dihub">19. 3D multi-scale FCN with random modality voxel dropout learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images</a><i><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Qi, Xiaojuan; Belavý, Daniel L.; Armbrecht, Gabriele; Felsenberg, Dieter; Zheng, Guoyan; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2018 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8379359/">18. H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes</a><i><br>Li, Xiaomeng; Chen, Hao; Qi, Xiaojuan; Dou, Qi; Fu, Chi-Wing; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2018 </br></i>
-<i> 2017 </i><br/>
+<i> <b>2017 </b></i><br/>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841516301542?via%3Dihub">17. Gland segmentation in colon histology images: The glas challenge contest</a><i><br>Sirinukunwattana, Korsuk; Pluim, Josien P.W.; Chen, Hao; Qi, Xiaojuan; Heng, Pheng-Ann; Guo, Yun Bo; Matuszewski, Bogdan J.; Bruni, Elia; Sanchez, Urko; Böhm, Anton; Ronneberger, Olaf; Cheikh, Bassem Ben; Racoceanu, Daniel; Kainz, Philipp; Pfeiffer, Michael; Urschler, Martin; Snead, David R.J.; Rajpoot, Nasir M.. <b>Medical Image Analysis</b>, 2017 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7840040/">16. Comparative Validation of Polyp Detection Methods in Video Colonoscopy: Results from the MICCAI 2015 Endoscopic Vision Challenge</a><i><br>Bernal, Jorge; Tajkbaksh, Nima; Sanchez, Francisco Javier; Matuszewski, Bogdan J.; Chen, Hao; Yu, Lequan; Angermann, Quentin; Romain, Olivier; Rustad, Bjørn; Balasingham, Ilangko; Pogorelov, Konstantin; Choi, Sungbin; Debard, Quentin; Maier-Hein, Lena; Speidel, Stefanie; Stoyanov, Danail; Brandao, Patrick; Cordova, Henry; Sanchez-Montes, Cristina; Histace, Aymeric. <b>IEEE Transactions on Medical Imaging</b>, 2017 </br></i>
@@ -246,7 +246,7 @@ design:
 <a href="https://ieeexplore.ieee.org/document/7776845/">7. Integrating Online and Offline Three-Dimensional Deep Learning for Automated Polyp Detection in Colonoscopy Videos</a><i><br>Yu, Lequan; Chen, Hao; Dou, Qi; Qin, Jing; Heng, Pheng Ann. <b>IEEE Journal of Biomedical and Health Informatics</b>, 2017 </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517300725?via%3Dihub">6. 3D deeply supervised network for automated segmentation of volumetric medical images</a><i><br>Dou, Qi; Yu, Lequan; Chen, Hao; Jin, Yueming; Yang, Xin; Qin, Jing; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2017 </br></i>
-<i> 2016 </i><br/>
+<i> <b>2016 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/7403984/">5. Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks</a><i><br>Dou, Q.; Chen, Hao; Yu, Lequan; Zhao, Lei; Qin, Jing; Wang, Defeng; Mok, Vincent C.T.; Shi, Lin; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2016 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7090943/">4. Standard Plane Localization in Fetal Ultrasound via Domain Trsmallansferred Deep Neural Networks</a><i><br>Chen, Hao; Ni, Dong; Qin, Jing; Li, Shengli; Yang, Xin; Wang, Tianfu; Heng, Pheng Ann. <b>IEEE Journal of Biomedical and Health Informatics</b>, 2015 </br></i>
