@@ -124,7 +124,7 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/7780642">66. DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann. <b> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition</b>, 2016</br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8">65. Multi-scale and modality dropout learning for intervertebral disc localization and segmentation</a><i><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann. <b> International Workshop on Computational Methods and Clinical Applications for Spine Imaging</b>, 2016</br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8">65. Multi-scale and modality dropout learning for intervertebral disc localization and segmentation</a><i><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> International Workshop on Computational Methods and Clinical Applications for Spine Imaging</b>, 2016</br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-43775-0_34">64. 3D fully convolutional networks for intervertebral disc localization and segmentation</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Cheng, Jack C.Y.; Heng, Pheng-Ann. <b> International Conference on Medical Imaging and Augmented Reality</b>, 2016</br></i>
 
@@ -185,7 +185,7 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/8988158">37. Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation</a><i><br>Chen, Cheng; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng Ann.<b> IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/9052757">36. 3D Roi-aware U-net for Accurate and Efficient Colorectal Tumor Segmentation</a><i><br>Huang, Yi-Jie; Dou, Qi; Wang, Zi-Xian; Liu, Li-Zhi; Jin, Ying; Li, Chao-Feng; Wang, Lisheng; Chen, Hao; Xu, Rui-Hua. <b>IEEE Transactions on Cybernetics<b>, 2020 </br></i>
+<a href="https://ieeexplore.ieee.org/document/9052757">36. 3D Roi-aware U-net for Accurate and Efficient Colorectal Tumor Segmentation</a><i><br>Huang, Yi-Jie; Dou, Qi; Wang, Zi-Xian; Liu, Li-Zhi; Jin, Ying; Li, Chao-Feng; Wang, Lisheng; Chen, Hao; Xu, Rui-Hua. <b>IEEE Transactions on Cybernetics</b>, 2020 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9110911">35. Deep mining external imperfect data for chest X-ray disease screening</a><i><br>Luo, Luyang; Yu, Lequan; Chen, Hao; Liu, Quande; Wang, Xi; Xu, Jiaqi; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 
