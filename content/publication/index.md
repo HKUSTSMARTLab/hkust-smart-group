@@ -55,13 +55,13 @@ design:
   columns: '0'
 ---
 <b>Conference</b><br/>
-<i> <small>2022 </small></i><br/>
+<i> 2022 </i><br/>
 <a href="https://ieeexplore.ieee.org/document/9761597">99. Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a><i><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9761652">98. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">97. InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a><i><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
-<i> <small>2021 </small></i><br/>
+<i> 2021 </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">96. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_50">95. OXnet: Deep Omni-Supervised Thoracic Disease Detection from Chest X-Rays</a><i><br>Luo, Luyang; Chen, Hao; Zhou, Yanning; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021 </br></i>
