@@ -191,7 +191,7 @@ design:
 
 <a href="https://www.nature.com/articles/s42256-020-0183-4">34. Towards a new generation of artificial intelligence in China</a><i><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. <b>Nature Machine Intelligence</b>, 2020 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/8880654">33. A Multi-Organ Nucleus Segmentation Challenge</a><i><br>Zhou Xiaoyang; Chen, Hao. IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
+<a href="https://ieeexplore.ieee.org/document/8880654">33. A Multi-Organ Nucleus Segmentation Challenge</a><i><br>Zhou Xiaoyang; Chen, Hao. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 <i> 2019 </i><br/>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.2019182012">32. Deep learning for automated contouring of primary tumor volumes by MRI for nasopharyngeal carcinoma</a><i><br>Lin, Li; Dou, Qi; Jin, Yue-Ming; Zhou, Guan-Qun; Tang, Yi-Qiang; Chen, Wei-Lin; Su, Bao-An; Liu, Feng; Tao, Chang-Juan; Jiang, Ning; Li, Jun-Yun; Tang, Ling-Long; Xie, Chuan-Miao; Huang, Shao-Min; Ma, Jun; Heng, Pheng-Ann; Wee, Joseph T.S.; Chua, Melvin L.K.; Chen, Hao; Sun, Ying. <b>Radiology</b>, 2019 </br></i>
 
