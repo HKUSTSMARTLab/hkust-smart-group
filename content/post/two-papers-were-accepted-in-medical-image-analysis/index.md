@@ -21,6 +21,6 @@ Supervised deep learning has achieved prominent success in various diabetic macu
 
 ![](2.png)
 
-## Deep Learning for Computational Cytology: A Survey
+## [Deep Learning for Computational Cytology: A Survey](https://arxiv.org/pdf/2202.05126.pdf)
 
 Computational cytology is a critical, rapid-developing, yet challenging topic in the field of medical image computing which analyzes the digitized cytology image by computeraided technologies for cancer screening. Recently, an increasing number of deep learning (DL) algorithms have made significant progress in medical image analysis, leading to the boosting publications of cytological studies. To investigate the advanced methods and comprehensive applications, we survey more than 120 publications of DL-based cytology image analysis in this article. We first introduce various deep learning methods, including fully supervised, weakly supervised, unsupervised, and transfer learning. Then, we systematically summarize the public datasets, evaluation metrics, versatile cytology image analysis applications including classification, detection, segmentation, and other related tasks. Finally, we discuss current challenges and potential research directions of computational cytology.
