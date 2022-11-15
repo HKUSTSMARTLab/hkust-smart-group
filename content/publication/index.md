@@ -112,7 +112,7 @@ design:
 
 <a href="https://arxiv.org/abs/1808.03887">82. Semi-supervised Skin Lesion Segmentation via Transformation Consistent Self-ensembling Model</a><i><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> BMVC </b>, 2018</br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-00889-5_9"81. Mtmr-net: Multi-task Deep Learning with Margin Ranking Loss for Lung Nodule Analysis</a><i><br>Liu, Lihao; Dou, Qi; Chen, Hao; Olatunji, Iyiola E.; Qin, Jing; Heng, Pheng-Ann. <b> Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support</b>, 2018 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-00889-5_9">81. Mtmr-net: Multi-task Deep Learning with Margin Ranking Loss for Lung Nodule Analysis</a><i><br>Liu, Lihao; Dou, Qi; Chen, Hao; Olatunji, Iyiola E.; Qin, Jing; Heng, Pheng-Ann. <b> Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support</b>, 2018 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8363553">80. HL-FCN: Hybrid Loss Guided FCN for Colorectal Cancer Segmentation</a><i><br>Huang, Yi-Jie; Dou, Qi; Wang, Zi-Xian; Liu, Li-Zhi; Wang, Li-Sheng; Chen, Hao; Heng, Pheng-Ann; Xu, Rui-Hua. <b> IEEE International Symposium on Biomedical Imaging</b>, 2018 </br></i>
 
