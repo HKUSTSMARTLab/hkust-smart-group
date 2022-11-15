@@ -27,7 +27,7 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: ../recruitment/
     - title: Trustworthy AI for Healthcare
       content: AI in Computational Pathology
       align: right
