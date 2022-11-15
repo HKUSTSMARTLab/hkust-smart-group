@@ -84,18 +84,18 @@ Trustworthy AI, Medical Image Analysis, Deep Learning, Computer Vision, Computat
 
 ## Selected Awards
 
-- 10/2022 Ranked Top 2% of Scientists on Stanford List.
-- 08/2022 IEEE TMI Distinguished Reviewer Award (Gold Level)
-- 06/2022 UROP Faculty Research Award
-- 02/2022 Computerized Medical Imaging and Graphics (CMIG) Outstanding Reviewer Award
-- 07/2021 World Artificial Intelligence Conference (WAIC) SAIL Award
-- 02/2021 IEEE TMI Distinguished Reviewer Award (Gold Level)
-- 10/2019 MICCAI Young Scientist Impact Award
-- 10/2019 Forbes China 30 under 30
-- 08/2018 CUHK Faculty Outstanding Thesis Award
-- 09/2017 Best Paper Award of Medical Image Analysis-MICCAI 2017
-- 09/2016 MIAR Best Paper Award, Switzerland
-- 03/2013 Hong Kong PhD Fellowship
+◎10/2022 Ranked Top 2% of Scientists on Stanford List.                 
+◎08/2022 IEEE TMI Distinguished Reviewer Award (Gold Level)              
+◎06/2022 UROP Faculty Research Award           
+◎02/2022 Computerized Medical Imaging and Graphics (CMIG) Outstanding Reviewer Award             
+◎07/2021 World Artificial Intelligence Conference (WAIC) SAIL Award          
+◎02/2021 IEEE TMI Distinguished Reviewer Award (Gold Level)           
+◎10/2019 MICCAI Young Scientist Impact Award            
+◎10/2019 Forbes China 30 under 30         
+◎08/2018 CUHK Faculty Outstanding Thesis Award          
+◎09/2017 Best Paper Award of Medical Image Analysis-MICCAI 2017         
+◎09/2016 MIAR Best Paper Award, Switzerland       
+◎03/2013 Hong Kong PhD Fellowship
 
 ## Selected Talks
 
@@ -117,46 +117,46 @@ Full publication list is available in [here](https://hkustsmartlab.netlify.app/p
 
 ## Professional Service
 #### Editorial Board Member
-Associate Editor of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)        
-Associate Editor of IEEE Journal of Biomedical and Health Informatics (JBHI)       
-Associate Editor of Medical Physics       
-Associate Editor of Computerized Medical Imaging and Graphics (CMIG)       
-Associate Editor of Neurocomputing       
-Associate Editor of Frontiers in Artificial Intelligence       
-Associate Editor of Frontiers in Big Data       
+◎Associate Editor of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)        
+◎Associate Editor of IEEE Journal of Biomedical and Health Informatics (JBHI)       
+◎Associate Editor of Medical Physics       
+◎Associate Editor of Computerized Medical Imaging and Graphics (CMIG)       
+◎Associate Editor of Neurocomputing       
+◎Associate Editor of Frontiers in Artificial Intelligence       
+◎Associate Editor of Frontiers in Big Data       
 #### Program Committee
-Area Chair of MICCAI 2022, MICCAI 2021, MIDL 2022, IEEE ISBI 2022       
-Senior PC of AAAI 2022, PC of AAAI 2021, IJCAI-ECAI 2022       
-Organizing Committee of Diabetic Retinopathy Analysis Challenge, MICCAI 2022       
-Technical Commitee Member of MIDL (2022-2024)       
-Vice President of Steering Committee of the HKSTP Startups Alumni Association (2022-2024)       
-Hong Kong BioMedical Technology Development Advisory Panel Member (2022- 2024)       
+◎Area Chair of MICCAI 2022, MICCAI 2021, MIDL 2022, IEEE ISBI 2022       
+◎Senior PC of AAAI 2022, PC of AAAI 2021, IJCAI-ECAI 2022       
+◎Organizing Committee of Diabetic Retinopathy Analysis Challenge, MICCAI 2022       
+◎Technical Commitee Member of MIDL (2022-2024)       
+◎Vice President of Steering Committee of the HKSTP Startups Alumni Association (2022-2024)       
+◎Hong Kong BioMedical Technology Development Advisory Panel Member (2022- 2024)       
 #### Membership
 IEEE Senior Member, MICCAI Member, AAAI Member        
 #### Regular Journal Reviewer
-Nature Methods       
-IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI)       
-Nature Communications       
-Medical Image Analysis (MIA)       
-IEEE Transactions on Medical Imaging (TMI)       
-npj Digital Medicine       
-Journal of Clinical Investigation       
-NeuroImage       
-IEEE Transactions on Cybernetics       
-IEEE Transactions on Image Processing (TIP)       
-IEEE Transactions on Biomedical Engineering (TBME)       
-IEEE Reviews in Biomedical Engineering       
-EBioMedicine       
-Engineering       
-JAMA Network Open       
-IEEE Computational Intelligence Magazine       
-IEEE Journal of Biomedical and Health Informatics       
-Artificial Intelligence In Medicine       
-Knowledge-Based Systems       
-Machine Learning for Biomedical Imaging       
-Patter Recognition       
-Expert Systems with Applications       
-International Journal of Computer Assisted Radiology and Surgery (IJCARS)       
+◎Nature Methods       
+◎IEEE Transactions on Pattern Recognition and Machine Intelligence (TPAMI)       
+◎Nature Communications       
+◎Medical Image Analysis (MIA)       
+◎IEEE Transactions on Medical Imaging (TMI)       
+◎npj Digital Medicine       
+◎Journal of Clinical Investigation       
+◎NeuroImage       
+◎IEEE Transactions on Cybernetics       
+◎IEEE Transactions on Image Processing (TIP)       
+◎IEEE Transactions on Biomedical Engineering (TBME)       
+◎IEEE Reviews in Biomedical Engineering       
+◎EBioMedicine       
+◎Engineering       
+◎JAMA Network Open       
+◎IEEE Computational Intelligence Magazine       
+◎IEEE Journal of Biomedical and Health Informatics       
+◎Artificial Intelligence In Medicine       
+◎Knowledge-Based Systems       
+◎Machine Learning for Biomedical Imaging       
+◎Patter Recognition       
+◎Expert Systems with Applications       
+◎International Journal of Computer Assisted Radiology and Surgery (IJCARS)       
 #### Regular Conference Reviewer
 AAAI, IJCAI, MICCAI, NeuIPS, CVPR, IROS, IPCAI, ISBI, MIDL, MICCAI-COMPAY, MICCAI-AE-CAI       
 
@@ -179,9 +179,9 @@ AAAI, IJCAI, MICCAI, NeuIPS, CVPR, IROS, IPCAI, ISBI, MIDL, MICCAI-COMPAY, MICCA
 ◎2014/10 MITOS-ATYPIA-14 challenge, 2014. Our team won the **1st** place among the 17 teams on mitosis detection.            
 
 ## Teaching
-COMP4421 Image Processing, Fall 2022        
-COMP6211H Deep Learning in Medical Image Analysis, Spring 2022          
-COMP4421 Image Processing, Fall 2021        
+◎COMP4421 Image Processing, Fall 2022        
+◎COMP6211H Deep Learning in Medical Image Analysis, Spring 2022          
+◎COMP4421 Image Processing, Fall 2021        
 
 <br>
 <br>
