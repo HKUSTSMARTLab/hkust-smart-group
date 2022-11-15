@@ -132,7 +132,7 @@ design:
 
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/10141">62. Deep Contextual Networks for Neuronal Structure Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann. <b>Proceedings of the AAAI Conference on Artificial Intelligence, <font color="#FF0000">Oral</font></b>, 2016</br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-46723-8_56">61. Iterative multi-domain regularized deep learning for anatomical structure detection and segmentation from ultrasound images</a><i><br>Chen, Hao; Zheng, Yefeng; Park, Jin-Hyeong; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2016</br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-46723-8_56">61. Iterative Multi-domain Regularized Deep Learning for Anatomical Structure Detection and Segmentation from Ultrasound Images</a><i><br>Chen, Hao; Zheng, Yefeng; Park, Jin-Hyeong; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2016</br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-46723-8_18">60. 3D Deeply Supervised Network for Automatic Liver Segmentation from CT Volumes</a><i><br>Dou, Qi; Chen, Hao; Jin, Yueming; Yu, Lequan; Qin, Jing; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention </b>, 2016 </br></i>
 <i> <b>2015 </b></i><br/>
