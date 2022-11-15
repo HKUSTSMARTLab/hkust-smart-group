@@ -5,7 +5,7 @@ date: 2022-11-15T13:24:21.488Z
 draft: false
 featured: false
 image:
-  filename: aici.svg
+  filename: aici.png
   focal_point: Smart
   preview_only: false
 ---
