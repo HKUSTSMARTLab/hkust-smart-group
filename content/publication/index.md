@@ -60,11 +60,11 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_56">108. Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays</a><i><br> Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
-<a href="">107. Frequency-Aware Inverse-Consistent Deep Learning for OCT-Angiogram Super-Resolution</a><i><br> Zhang, Weiwen; Yang, Dawei; Cheung, Carol Y; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62">107. Frequency-Aware Inverse-Consistent Deep Learning for OCT-Angiogram Super-Resolution</a><i><br> Zhang, Weiwen; Yang, Dawei; Cheung, Carol Y; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
-<a href="">106. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement</a><i><br> Che, Haoxuan; Jin, Haibo; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_50">106. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement</a><i><br> Che, Haoxuan; Jin, Haibo; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
-<a href="">105. ORF-Net: Deep Omni-Supervised Rib Fracture Detection from Chest CT Scans</a><i><br>Chai, Zhizhong; Lin, Huangjing; Luo, Luyang; Heng, Pheng-Ann; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_23">105. ORF-Net: Deep Omni-Supervised Rib Fracture Detection from Chest CT Scans</a><i><br>Chai, Zhizhong; Lin, Huangjing; Luo, Luyang; Heng, Pheng-Ann; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">104. InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a><i><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
@@ -161,15 +161,15 @@ design:
 
 <b>Journal</b><br/>
 <i> <b>2022 </b></i><br/>
-<a href="">58. A Deep Learning System to Predict Response to Anti-Vascular Endothelial Growth Factor (VEGF) Therapy in Eyes with Diabetic Macular Edema for Optical Coherence Tomography Images</a><i><br>Tang, Fangyao; Wang, Xi; Cai, Yu; Chen, Hao; Heng, Pheng-Ann Heng Pheng-Ann; Cheung, Carol Y. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2782535">58. A Deep Learning System to Predict Response to Anti-Vascular Endothelial Growth Factor (VEGF) Therapy in Eyes with Diabetic Macular Edema for Optical Coherence Tomography Images</a><i><br>Tang, Fangyao; Wang, Xi; Cai, Yu; Chen, Hao; Heng, Pheng-Ann Heng Pheng-Ann; Cheung, Carol Y. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
 
-<a href="">57. Using Deep Learning for Assessing Image-Quality of 3D Macular Scans from Spectral-Domain Optical Coherence Tomography</a><i><br>Ziqi, Tang; Wang, Xi; Ran, Anran; Tang, Fangyao; Cai, Yu; Che, Haoxuan; Yang, Dawei Gabriel; Luo, Luyang; Liu, Quande; Wong, Yiu Lun. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
+<a href="https://iovs.arvojournals.org/article.aspx?articleid=2783185">57. Using Deep Learning for Assessing Image-Quality of 3D Macular Scans from Spectral-Domain Optical Coherence Tomography</a><i><br>Ziqi, Tang; Wang, Xi; Ran, Anran; Tang, Fangyao; Cai, Yu; Che, Haoxuan; Yang, Dawei Gabriel; Luo, Luyang; Liu, Quande; Wong, Yiu Lun. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
 
-<a href="">56. Rethinking Annotation Granularity for Overcoming Shortcuts in Deep Learning based Radiograph Diagnosis: A Multicenter Study</a><i><br>Luo, Luyang; Chen, Hao; Xiao, Yongjie; Zhou, Yanning; Wang, Xi; Vardhanabhuti, Varut; Wu, Mingxiang; Han, Chu; Liu, Zaiyi; Fang, Xin Hao Benjamin. <b>Radiology: Artificial Intelligence</b>, 2022 </br></i>
+<a href="https://pubs.rsna.org/doi/10.1148/ryai.210299">56. Rethinking Annotation Granularity for Overcoming Shortcuts in Deep Learning based Radiograph Diagnosis: A Multicenter Study</a><i><br>Luo, Luyang; Chen, Hao; Xiao, Yongjie; Zhou, Yanning; Wang, Xi; Vardhanabhuti, Varut; Wu, Mingxiang; Han, Chu; Liu, Zaiyi; Fang, Xin Hao Benjamin. <b>Radiology: Artificial Intelligence</b>, 2022 </br></i>
 
-<a href="">55. Deep semi-supervised multiple instance learning with self-correction for DME classification from OCT images</a><i><br>Wang, Xi; Tang, Fangyao; Chen, Hao; Cheung, Carol Y; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2022 </br></i>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003012">55. Deep Semi-supervised Multiple Instance Learning with Self-correction for DME Classification from OCT Images</a><i><br>Wang, Xi; Tang, Fangyao; Chen, Hao; Cheung, Carol Y; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2022 </br></i>
 
-<a href="">54. An artificial intelligence system for the detection of bladder cancer via cystoscopy: a multicenter diagnostic study</a><i><br>Wu, Shaoxu; Chen, Xiong; Pan, Jiexin; Dong, Wen; Diao, Xiayao; Zhang, Ruiyun; Zhang, Yonghai; Zhang, Yuanfeng; Qian, Guang; Chen, Hao. <b>Journal of the National Cancer Institute</b>, 2022 </br></i>
+<a href="https://pubmed.ncbi.nlm.nih.gov/34473310/">54. An Artificial Intelligence System for the Detection of Bladder Cancer via Cystoscopy: a Multicenter Diagnostic Study</a><i><br>Wu, Shaoxu; Chen, Xiong; Pan, Jiexin; Dong, Wen; Diao, Xiayao; Zhang, Ruiyun; Zhang, Yonghai; Zhang, Yuanfeng; Qian, Guang; Chen, Hao. <b>Journal of the National Cancer Institute</b>, 2022 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9740140">53. PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a><i><br>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. <b>IEEE Transactions on Medical Imaging</b>, 2022 </br></i>
 
