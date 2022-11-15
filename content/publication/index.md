@@ -56,6 +56,9 @@ design:
 ---
 <b>Conference</b><br/>
 <i> <b>2022</b> </i><br/>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">109. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_56">108. Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays</a><i><br> Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
 <a href="">107. Frequency-Aware Inverse-Consistent Deep Learning for OCT-Angiogram Super-Resolution</a><i><br> Zhang, Weiwen; Yang, Dawei; Cheung, Carol Y; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
