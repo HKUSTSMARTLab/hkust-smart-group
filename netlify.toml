@@ -21,76 +21,76 @@
     debug = true
 
  [[redirects]]
-  from = "/author/yu-yan-ruan/"
+  from = "/people/yu-yan-ruan/"
   to = "https://wang-lab.hkust.edu.hk/people/cv_html/yuyan_cv.html"
   force = true
 
  [[redirects]]
-  from = "/author/xiao-yu-zheng/"
+  from = "/people/xiao-yu-zheng/"
   to = "https://linkedin.com/in/xiaoyuzlovesds/"
   force = true
 
  [[redirects]]
-  from = "/author/yu-cai/"
+  from = "/people/yu-cai/"
   to = "https://caiyu6666.github.io/"
   force = true
 
  [[redirects]]
-  from = "/author/ying-xue-xu/"
+  from = "/people/ying-xue-xu/"
   to = "https://innse.github.io/"
   force = true
 
  [[redirects]]
-  from = "/author/hao-xuan-che/"
+  from = "/people/hao-xuan-che/"
   to = "https://www.linkedin.com/in/chehx/"
   force = true
 
  [[redirects]]
-  from = "/author/jia-xin-zhuang/"
+  from = "/people/jia-xin-zhuang/"
   to = "https://jiaxinzhuang.github.io/"
   force = true
 
  [[redirects]]
-  from = "/author/an-dong-tan/"
+  from = "/people/an-dong-tan/"
   to = "https://www.linkedin.com/in/andong-tan-785661122/"
   force = true
 
  [[redirects]]
-  from = "/author/hai-bo-jin/"
+  from = "/people/hai-bo-jin/"
   to = "http://jhb86253817.github.io/"
   force = true
 
  [[redirects]]
-  from = "/author/zheng-rui-guo/"
+  from = "/people/zheng-rui-guo/"
   to = "https://github.com/GzrDavidRicardo"
   force = true
 
  [[redirects]]
-  from = "/author/cheng-jin/"
+  from = "/people/cheng-jin/"
   to = "https://chengjin.netlify.app/"
   force = true
 
  [[redirects]]
-  from = "/author/luo-yang-jin/"
+  from = "/people/luo-yang-jin/"
   to = "https://llyxc.github.io/"
   force = true
 
  [[redirects]]
-  from = "/author/jia-bo-ma/"
+  from = "/people/jia-bo-ma/"
   to = "https://github.com/birkhoffkiki"
   force = true
 
  [[redirects]]
-  from = "/author/yi-lin/"
+  from = "/people/yi-lin/"
   to = "https://ianyilin.github.io/"
   force = true
 
  [[redirects]]
-  from = "/author/xiao-qi-ma/"
+  from = "/people/xiao-qi-ma/"
   to = "https://github.com/chronican"
   force = true
 
  [[redirects]]
-  from = "/author/feng-tao-zhou/"
+  from = "/people/feng-tao-zhou/"
   to = "https://www.cvzzz.com/"
   force = true
