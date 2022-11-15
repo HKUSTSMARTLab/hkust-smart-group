@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 image:
-  filename: professor-frangi-v3.png
+  filename: ale.svg
   focal_point: Smart
   preview_only: false
 ---
