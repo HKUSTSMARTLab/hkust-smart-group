@@ -10,7 +10,7 @@ image:
 ---
 <!--StartFragment-->
 
-Prof. Hao CHEN, was recently appointed as an associate editor of IEEE Journal of Biomedical and Health Informatics (JBHI), a leading international scientific journal in the field of biomedical and health informatics.
+Prof. Hao CHEN, was recently invited as an associate editor of IEEE Journal of Biomedical and Health Informatics (JBHI), a leading international scientific journal in the field of biomedical and health informatics.
 
 <!--EndFragment-->
 
