@@ -74,7 +74,7 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/9761652">102. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 <i> <b>2021</b> </i><br/>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">101. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021, <font color="#FF0000">Oral</font></b></br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">101. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021, <b><font color="#FF0000">Oral</font></b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_50">100. OXnet: Deep Omni-Supervised Thoracic Disease Detection from Chest X-Rays</a><i><br>Luo, Luyang; Chen, Hao; Zhou, Yanning; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021 </br></i>
 <i> <b>2020</b> </i><br/>
