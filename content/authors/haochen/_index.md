@@ -20,7 +20,7 @@ user_groups:
 
 10/22 Ranked Top 2% of Scientists on [Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3).\
 08/22 Honored to serve as Associate Editor of IEEE JBHI.\
-08/22 Elevation to IEEE Senior Member.\
+08/22 Elevation to IEEE Senior Member. \
 07/22 Two papers were accepted in Radiology AI.\
 05/22 Six papers were accepted in MICCAI 2022 (five are early accept).          
 
