@@ -216,7 +216,7 @@ design:
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmri.26721">31. Weakly Supervised 3D Deep Learning for Breast Cancer Classification and Localization of the Lesions in MR Images</a><i><br>Zhou, Juan; Luo, Lu-Yang; Dou, Qi; Chen, Hao; Chen, Cheng; Li, Gong-Jie; Jiang, Ze-Fei; Heng, Pheng-Ann. <b>Journal of Magnetic Resonance Imaging</b>, 2019 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/8447230/">29. From Detection of Individual Metastases to Classification of Lymph Node Status at the Patient Level: The CAMELYON17 Challenge</a><i><br>Bándi, Péter; Geessink, Oscar; Manson, Quirine; Van Dijk, Marcory; Balkenhol, Maschenka; Hermsen, Meyke; Ehteshami Bejnordi, Babak; Lee, Byungjae; Paeng, Kyunghyun; Zhong, Aoxiao; Li, Quanzheng; Zanjani, Farhad Ghazvinian; Zinger, Svitlana; Fukuta, Keisuke; Komura, Daisuke; Ovtcharov, Vlado; Cheng, Shenghua; Zeng, Shaoqun; Thagaard, Jeppe; Chen, Hao. <b>IEEE Transactions on Medical Imaging</b>, 2019 </br></i>
+<a href="https://ieeexplore.ieee.org/document/8447230/">29. From Detection of Individual Metastases to Classification of Lymph Node Status at the Patient Level: The CAMELYON17 Challenge</a><i><br>Bándi, Péter; Geessink, Oscar; Manson, Quirine; Van Dijk, Marcory; Balkenhol, Maschenka; Hermsen, Meyke; Ehteshami Bejnordi, Babak; Lee, Byungjae; Paeng, Kyunghyun; Zhong, Aoxiao; Li, Quanzheng; Chen, Hao etc. <b>IEEE Transactions on Medical Imaging</b>, 2019 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8764342">28. PNP-AdaNet: Plug-and-play Adversarial Domain Adaptation Network at Unpaired Cross-modality Cardiac Segmentation</a><i><br>Dou, Qi; Ouyang, Cheng; Chen, Cheng; Chen, Hao; Glocker, Ben; Zhuang, Xiahai; Heng, Pheng-Ann. <b>IEEE Access</b>, 2019 </br></i>
 
@@ -232,7 +232,7 @@ design:
 <i> <b>2018 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/8240734">22. SV-RCNet: Workflow Recognition from Surgical Videos Using Recurrent Convolutional Network</a><i><br>Jin, Yueming; Dou, Qi; Chen, Hao; Yu, Lequan; Qin, Jing; Fu, Chi-Wing; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2018 </br></i>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0360301618324714?via%3Dihub">21. Development and Validation of A Deep Learning Algorithm for Automated Delineation of Primary Tumor for Nasopharyngeal Carcinoma from Multimodal Magnetic Resonance Images</a><i><br>Sun, Y.; Dou, Q.; Chen, Hao; Jin, Y.M.; Zhou, G.Q.; Tang, Y.Q.; Chen, W.L.; Su, B.A.; Liu, F.; Tao, C.J.; Jiang, N.; Li, J.Y.; Tang, L.; Xie, C.; Huang, S.M.; Heng, P.A.. <b>International Journal of Radiation Oncology Biology Physics</b>, 2018 </br></i>
+<a href="https://www.sciencedirect.com/science/article/pii/S0360301618324714?via%3Dihub">21. Development and Validation of A Deep Learning Algorithm for Automated Delineation of Primary Tumor for Nasopharyngeal Carcinoma from Multimodal Magnetic Resonance Images</a><i><br>Sun, Y.; Dou, Q.; Chen, Hao etc. <b>International Journal of Radiation Oncology Biology Physics</b>, 2018 </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811917303348?via%3Dihub">21. VoxResNet: Deep Voxelwise Residual Networks for Brain Segmentation from 3D MR Images</a><i><br>Chen, Hao; Dou, Qi; Yu, Lequan; Qin, Jing; Heng, Pheng-Ann. <b>NeuroImage</b>, 2018 </br></i>
 
