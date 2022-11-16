@@ -134,11 +134,11 @@ design:
 <i> <b>2016 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/7493482">72. Automated Mitosis Detection with Deep Regression Networks</a><i><br>Chen, Hao; Wang, Xi; Heng, Pheng Ann. <b> Proceedings of International Symposium on Biomedical Imaging</b>, 2016 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/7780642">71. DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann. <b> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2016, <font color="#FF0000">Winner of MICCAI GlaS Challenge</font> </b></br></i>
+<a href="https://ieeexplore.ieee.org/document/7780642">71. DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann. <b> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition</b>, 2016, <b><font color="#FF0000">Winner of MICCAI GlaS Challenge</font> </b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8">70. Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation</a><i><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> International Workshop on Computational Methods and Clinical Applications for Spine Imaging</b>, 2016</br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-43775-0_34">69. 3D Fully Convolutional Networks for Intervertebral Disc Localization and Segmentation</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Cheng, Jack C.Y.; Heng, Pheng-Ann. <b> International Conference on Medical Imaging and Augmented Reality, 2016, <font color="#FF0000">Best Paper Award </font></b></br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-43775-0_34">69. 3D Fully Convolutional Networks for Intervertebral Disc Localization and Segmentation</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Cheng, Jack C.Y.; Heng, Pheng-Ann. <b> International Conference on Medical Imaging and Augmented Reality<b>, 2016, <b><font color="#FF0000">Best Paper Award </font></b></br></i>
 
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/10140">68. Mitosis Detection in Breast Cancer Histology Images via Deep Cascaded Networks</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Heng, Pheng-Ann. <b> Proceedings of the AAAI Conference on Artificial Intelligence, 2016, <font color="#FF0000"> Oral </font></b></br></i>
 
@@ -150,7 +150,7 @@ design:
 <i> <b>2015 </b></i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-24553-9_63">64. Automatic Localization and Identification of Vertebrae in Spine CT via A Joint Learning Model with Deep Neural Networks</a><i><br>Chen, Hao; Shen, Chiyao; Qin, Jing; Ni, Dong; Shi, Lin; Cheng, Jack C.Y; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention, 2015,  <font color="#FF0000"> MICCAI Travel Award</font></b></br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-24553-9_62">63. Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks</a><i><br>Chen, Hao; Dou, Qi; Ni, Dong; Cheng, Jie-Zhi; Qin, Jing; Li, Shengli; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention, 2015,  <font color="#FF0000">MICCAI Young Scientist Publication Impact Award</font> </b></br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-24553-9_62">63. Automatic Fetal Ultrasound Standard Plane Detection Using Knowledge Transferred Recurrent Neural Networks</a><i><br>Chen, Hao; Dou, Qi; Ni, Dong; Cheng, Jie-Zhi; Qin, Jing; Li, Shengli; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2015, <b><font color="#FF0000">MICCAI Young Scientist Publication Impact Award</font> </b></br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7320232">62. Automatic Cerebral Microbleeds Detection from MR Images via Independent Subspace Analysis Based Hierarchical Features</a><i><br>Dou, Qi; Chen, Hao; Yu, Lequan; Shi, Lin; Wang, Defeng; Mok, Vincent C.T.; Heng, Pheng Ann. <b> Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society</b>, 2015 </br></i>
 
@@ -179,7 +179,7 @@ design:
 
 <a href="https://academic.oup.com/jnci/article-abstract/114/2/220/6362894?redirectedFrom=fulltext&login=false">51. An Artificial Intelligence System for the Detection of Bladder Cancer via Cystoscopy: A Multicenter Diagnostic Study</a><i><br>Wu, Shaoxu; Chen, Xiong; Pan, Jiexin; Dong, Wen; Diao, Xiayao; Zhang, Ruiyun; Zhang, Yonghai; Qian, Guang; Chen, Hao; Lin, Haotian; Xu, Shizhong; Chen, Zhiwen; Zhou, Xiaozhou; Mei, Hongbing; Wu, Chenglong; Lv, Qiang; Yuan, Baorui; Chen Zeshi; Liao, Wenjiao; Yang, Xuefan; Chen Hage; Huang, Jian; Lin, Tianxin. <b>Journal of the National Cancer Institute</b>, 2022 </br></i>
 <i> <b>2021 </b></i><br/>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521000013?via%3Dihub">50. Dual-path Network with Synergistic Grouping Loss and Evidence Driven Risk Stratification for Whole Slide Cervical Image Analysis</a><i><br>Lin, Huangjing; Chen, Hao; Wang, Xi; Wang, Qiong; Wang, Liansheng; Heng, Pheng-Ann. <b>Medical Image Analysis, 2021, <font color="#FF0000">One of largest cervical screening WSI datasets</font></b></br></i>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521000013?via%3Dihub">50. Dual-path Network with Synergistic Grouping Loss and Evidence Driven Risk Stratification for Whole Slide Cervical Image Analysis</a><i><br>Lin, Huangjing; Chen, Hao; Wang, Xi; Wang, Qiong; Wang, Liansheng; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2021, <b><font color="#FF0000">One of largest cervical screening WSI datasets</font></b></br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9104928">49. Transformation-consistent Self-ensembling Model for Semi-supervised Medical Image Segmentation</a><i><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Xing, Lei; Heng, Pheng-Ann. <b>IEEE Transactions on Neural Networks and Learning Systems</b>, 2021 </br></i>
 
