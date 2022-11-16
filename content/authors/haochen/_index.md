@@ -1,5 +1,5 @@
 ---
-title: Hao Chen
+title: Prof. Hao Chen
 authors:
   - haochen
 social:
