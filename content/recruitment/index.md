@@ -1,5 +1,5 @@
 ---
-title: HKUST PhD/PostDoc/RA Positions in Medical AI
+title: PhD/PostDoc/RA Positions in Medical AI
 summary: HKUST PhD/PostDoc/RA Positions in Medical AI
 # date: "2018-06-28T00:00:00Z"
 
