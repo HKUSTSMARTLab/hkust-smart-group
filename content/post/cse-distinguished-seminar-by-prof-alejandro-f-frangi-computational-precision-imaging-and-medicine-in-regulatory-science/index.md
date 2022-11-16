@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 image:
-  filename: ale.png
+  filename: 1.png
   focal_point: Smart
   preview_only: false
 ---
