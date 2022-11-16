@@ -210,13 +210,11 @@ design:
 
 <a href="https://www.nature.com/articles/s42256-020-0183-4">34. Towards A New Generation of Artificial Intelligence in China</a><i><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. <b>Nature Machine Intelligence</b>, 2020, <b><font color="#FF0000">WAIC SAIL Award</font></b> </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/8880654">33. A Multi-Organ Nucleus Segmentation Challenge</a><i><br>Zhou Xiaoyang; Chen, Hao. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
+<a href="https://ieeexplore.ieee.org/document/8880654">33. A Multi-Organ Nucleus Segmentation Challenge</a><i><br>Kumar, Neeraj, Ruchika Verma, Deepak Anand, Yanning Zhou, Omer Fahri Onder, Efstratios Tsougenis, Hao Chen etc. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 <i> <b>2019 </b></i><br/>
 <a href="https://pubs.rsna.org/doi/10.1148/radiol.2019182012">32. Deep Learning for Automated Contouring of Primary Tumor Volumes by MRI for Nasopharyngeal Carcinoma</a><i><br>Lin, Li; Dou, Qi; Jin, Yue-Ming; Zhou, Guan-Qun; Tang, Yi-Qiang; Chen, Wei-Lin; Su, Bao-An; Liu, Feng; Tao, Chang-Juan; Jiang, Ning; Li, Jun-Yun; Tang, Ling-Long; Xie, Chuan-Miao; Huang, Shao-Min; Ma, Jun; Heng, Pheng-Ann; Wee, Joseph T.S.; Chua, Melvin L.K.; Chen, Hao; Sun, Ying. <b>Radiology</b>, 2019 </br></i>
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmri.26721">31. Weakly Supervised 3D Deep Learning for Breast Cancer Classification and Localization of the Lesions in MR Images</a><i><br>Zhou, Juan; Luo, Lu-Yang; Dou, Qi; Chen, Hao; Chen, Cheng; Li, Gong-Jie; Jiang, Ze-Fei; Heng, Pheng-Ann. <b>Journal of Magnetic Resonance Imaging</b>, 2019 </br></i>
-
-<a href="https://www.sciencedirect.com/science/article/pii/B9780128160343000092?via%3Dihub">30. Automatic Lesion Detection with Three-dimensional Convolutional Neural Networks</a><i><br>Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Biomedical Information Technology</b>, 2019 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8447230/">29. From Detection of Individual Metastases to Classification of Lymph Node Status at the Patient Level: The CAMELYON17 Challenge</a><i><br>Bándi, Péter; Geessink, Oscar; Manson, Quirine; Van Dijk, Marcory; Balkenhol, Maschenka; Hermsen, Meyke; Ehteshami Bejnordi, Babak; Lee, Byungjae; Paeng, Kyunghyun; Zhong, Aoxiao; Li, Quanzheng; Zanjani, Farhad Ghazvinian; Zinger, Svitlana; Fukuta, Keisuke; Komura, Daisuke; Ovtcharov, Vlado; Cheng, Shenghua; Zeng, Shaoqun; Thagaard, Jeppe; Chen, Hao. <b>IEEE Transactions on Medical Imaging</b>, 2019 </br></i>
 
@@ -270,7 +268,8 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/7090943/">4. Standard Plane Localization in Fetal Ultrasound via Domain Trsmallansferred Deep Neural Networks</a><i><br>Chen, Hao; Ni, Dong; Qin, Jing; Li, Shengli; Yang, Xin; Wang, Tianfu; Heng, Pheng Ann. <b>IEEE Journal of Biomedical and Health Informatics</b>, 2015 </br></i>
 
-<b>Book</b>
+<b>Book Chapter</b>
+<a href="https://www.sciencedirect.com/science/article/pii/B9780128160343000092?via%3Dihub">30. Automatic Lesion Detection with Three-dimensional Convolutional Neural Networks</a><i><br>Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Biomedical Information Technology</b>, 2019 </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/pii/B9780128161760000156?via%3Dihub">3. Deep multilevel contextual networks for biomedical image segmentation</a><i><br>Chen, Hao; Dou, Qi; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann.Handbook of Medical Image Computing and Computer Assisted Intervention / Edited by S. Kevin Zhou, Daniel Rueckert and Gabor Fichtinger. Elsevier Inc., 2019, p. 231-247</br></i>
 
