@@ -3,6 +3,11 @@ title: Prof. Hao Chen
 authors:
   - haochen
 social:
+  - display:
+      header: false
+    link: https://cse.hkust.edu.hk/~jhc/
+    icon_pack: fas
+    icon: paperclip
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=Z_t5DjwAAAAJ
