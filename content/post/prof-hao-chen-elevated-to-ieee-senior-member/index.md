@@ -12,8 +12,4 @@ image:
 
 Prof. Hao CHEN  has been elevated to the grade of IEEE Senior member. The senior membership is an honor bestowed only to those who have made significant contributions in their designated fields. Less than 10% of the total IEEE membership achieves this level of professional recognition.
 
-<br>
-<br>
-<br>
-
 <!--EndFragment-->
