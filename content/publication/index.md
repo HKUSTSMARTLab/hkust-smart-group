@@ -168,6 +168,7 @@ design:
 
 <b>Journal</b><br/>
 <i> <b>2022 </b></i><br/>
+
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2782535">57. A Deep Learning System to Predict Response to Anti-Vascular Endothelial Growth Factor (VEGF) Therapy in Eyes with Diabetic Macular Edema for Optical Coherence Tomography Images</a><i><br>Tang, Fangyao; Wang, Xi; Cai, Yu; Chen, Hao; Heng, Pheng-Ann Heng Pheng-Ann; Cheung, Carol Y. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
 
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2783185">56. Using Deep Learning for Assessing Image-Quality of 3D Macular Scans from Spectral-Domain Optical Coherence Tomography</a><i><br>Ziqi, Tang; Wang, Xi; Ran, Anran; Tang, Fangyao; Cai, Yu; Che, Haoxuan; Yang, Dawei Gabriel; Luo, Luyang; Liu, Quande; Wong, Yiu Lun. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
@@ -175,6 +176,8 @@ design:
 <a href="https://pubs.rsna.org/doi/10.1148/ryai.210299">55. Rethinking Annotation Granularity for Overcoming Shortcuts in Deep Learning based Radiograph Diagnosis: A Multicenter Study</a><i><br>Luo, Luyang; Chen, Hao; Xiao, Yongjie; Zhou, Yanning; Wang, Xi; Vardhanabhuti, Varut; Wu, Mingxiang; Han, Chu; Liu, Zaiyi; Fang, Xin Hao Benjamin. <b>Radiology: Artificial Intelligence</b>, 2022 </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003012">54. Deep Semi-supervised Multiple Instance Learning with Self-correction for DME Classification from OCT Images</a><i><br>Wang, Xi; Tang, Fangyao; Chen, Hao; Cheung, Carol Y; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2022 </br></i>
+
+<a href=""> </a>Deep Learning for Computational Cytology: A Survey<i><br>Jiang, Hao; Zhou, Yanning; Lin, Yi; Chan, Ronald CK; Liu, Jiang; Chen, Hao. <b>Medical Image Analysis</b>, 2022 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9740140">53. PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a><i><br>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. <b>IEEE Transactions on Medical Imaging</b>, 2022 </br></i>
 
