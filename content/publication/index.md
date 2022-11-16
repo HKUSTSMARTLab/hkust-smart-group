@@ -64,7 +64,7 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62">107. Frequency-Aware Inverse-Consistent Deep Learning for OCT-Angiogram Super-Resolution</a><i><br> Zhang, Weiwen; Yang, Dawei; Cheung, Carol Y; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_50">106. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement</a><i><br> Che, Haoxuan; Jin, Haibo; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_50">106. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement</a><i><br> Che, Haoxuan; Jin, Haibo; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept, MICCAI Travel Award</font></b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_23">105. ORF-Net: Deep Omni-Supervised Rib Fracture Detection from Chest CT Scans</a><i><br>Chai, Zhizhong; Lin, Huangjing; Luo, Luyang; Heng, Pheng-Ann; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
 
@@ -72,7 +72,7 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/9761597">103. Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a><i><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/9761652">102. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
+<a href="https://ieeexplore.ieee.org/document/9761652">102. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022, , <b><font color="#FF0000">Oral Presentation</font></b></br></i>
 <i> <b>2021</b> </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">101. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021, <b><font color="#FF0000">Oral Presentation</font></b></br></i>
 
@@ -86,7 +86,6 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/8759203">96. Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification</a><i><br>Xue, Cheng; Dou, Qi; Shi, Xueying; Chen, Hao; Heng, Pheng-Ann. <b>International Symposium on Biomedical Imaging</b>, 2019 </br></i>
 
-<a href="https://www.ijcai.org/proceedings/2019/593">95. Light-weight Hybrid Convolutional Network for Liver Tumor Segmentation</a><i><br>Zhang, Jianpeng; Xie, Yutong; Zhang, Pingping; Chen, Hao; Xia, Yong; Shen, Chunhua. <b>IJCAI International Joint Conference on Artificial Intelligence</b>, 2019</br></i>
 
 <a href="https://repository.hkust.edu.hk/ir/Record/1783.1-108394">94. Clinically-Led Automated Radiograph Triaging System Based on Convolution Neural Networks--A Simulation Study</a><i><br>Tsougenis, E.; Onder, O.F.; Lai, C.; Tang, T.; Lee, C.; Du, R.; Chen, Hao; Vardhanabhuti, V. <b> 8th Joint Scientific Meeting of Royal College of Radiologists & Hong Kong College of Radiologists and 27th Annual Scientific Meeting of Hong Kong College of Radiologists</b>, 2019</br></i>
 
@@ -170,8 +169,6 @@ design:
 <a href="https://pubs.rsna.org/doi/10.1148/ryai.210299">56. Rethinking Annotation Granularity for Overcoming Shortcuts in Deep Learning based Radiograph Diagnosis: A Multicenter Study</a><i><br>Luo, Luyang; Chen, Hao; Xiao, Yongjie; Zhou, Yanning; Wang, Xi; Vardhanabhuti, Varut; Wu, Mingxiang; Han, Chu; Liu, Zaiyi; Fang, Xin Hao Benjamin. <b>Radiology: Artificial Intelligence</b>, 2022 </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003012">55. Deep Semi-supervised Multiple Instance Learning with Self-correction for DME Classification from OCT Images</a><i><br>Wang, Xi; Tang, Fangyao; Chen, Hao; Cheung, Carol Y; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2022 </br></i>
-
-<a href="https://pubmed.ncbi.nlm.nih.gov/34473310/">54. An Artificial Intelligence System for the Detection of Bladder Cancer via Cystoscopy: a Multicenter Diagnostic Study</a><i><br>Wu, Shaoxu; Chen, Xiong; Pan, Jiexin; Dong, Wen; Diao, Xiayao; Zhang, Ruiyun; Zhang, Yonghai; Zhang, Yuanfeng; Qian, Guang; Chen, Hao. <b>Journal of the National Cancer Institute</b>, 2022 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9740140">53. PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a><i><br>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. <b>IEEE Transactions on Medical Imaging</b>, 2022 </br></i>
 
