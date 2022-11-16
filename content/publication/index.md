@@ -138,7 +138,7 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8">70. Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation</a><i><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> International Workshop on Computational Methods and Clinical Applications for Spine Imaging</b>, 2016</br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-319-43775-0_34">69. 3D Fully Convolutional Networks for Intervertebral Disc Localization and Segmentation</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Cheng, Jack C.Y.; Heng, Pheng-Ann. <b> International Conference on Medical Imaging and Augmented Reality<b>, 2016, <b><font color="#FF0000">Best Paper Award </font></b></br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-43775-0_34">69. 3D Fully Convolutional Networks for Intervertebral Disc Localization and Segmentation</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Cheng, Jack C.Y.; Heng, Pheng-Ann. <b> International Conference on Medical Imaging and Augmented Reality</b>, 2016, <b><font color="#FF0000">Best Paper Award </font></b></br></i>
 
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/10140">68. Mitosis Detection in Breast Cancer Histology Images via Deep Cascaded Networks</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Heng, Pheng-Ann. <b> Proceedings of the AAAI Conference on Artificial Intelligence, 2016, <font color="#FF0000"> Oral </font></b></br></i>
 
