@@ -177,7 +177,7 @@ design:
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003012">54. Deep Semi-supervised Multiple Instance Learning with Self-correction for DME Classification from OCT Images</a><i><br>Wang, Xi; Tang, Fangyao; Chen, Hao; Cheung, Carol Y; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2022 </br></i>
 
-<a href=""> </a>Deep Learning for Computational Cytology: A Survey<i><br>Jiang, Hao; Zhou, Yanning; Lin, Yi; Chan, Ronald CK; Liu, Jiang; Chen, Hao. <b>Medical Image Analysis</b>, 2022 </br></i>
+<a href="">Deep Learning for Computational Cytology: A Survey</a><i><br>Jiang, Hao; Zhou, Yanning; Lin, Yi; Chan, Ronald CK; Liu, Jiang; Chen, Hao. <b>Medical Image Analysis</b>, 2022 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9740140">53. PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a><i><br>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. <b>IEEE Transactions on Medical Imaging</b>, 2022 </br></i>
 
