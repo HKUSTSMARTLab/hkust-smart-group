@@ -112,7 +112,7 @@ design:
 <i> <b>2018 </b></i><br/>
 <a href="https://www.ijcai.org/proceedings/2018/96">83. Unsupervised Cross-modality Domain Adaptation of Convnets for Biomedical Image Segmentations with Adversarial Loss</a><i><br>Dou, Qi; Ouyang, Cheng; Chen, Cheng; Chen, Hao; Heng, Pheng-Ann. <b>IJCAI International Joint Conference on Artificial Intelligence</b>, 2018 </br></i>
 
-<a href="https://arxiv.org/abs/1808.03887">82. Semi-supervised Skin Lesion Segmentation via Transformation Consistent Self-ensembling Model</a><i><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> BMVC </b>, 2018</br></i>
+<a href="https://arxiv.org/abs/1808.03887">82. Semi-supervised Skin Lesion Segmentation via Transformation Consistent Self-ensembling Model</a><i><br>Li, Xiaomeng; Yu, Lequan; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> The British Machine Vision Conference </b>, 2018</br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-00889-5_9">81. Mtmr-net: Multi-task Deep Learning with Margin Ranking Loss for Lung Nodule Analysis</a><i><br>Liu, Lihao; Dou, Qi; Chen, Hao; Olatunji, Iyiola E.; Qin, Jing; Heng, Pheng-Ann. <b> Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support</b>, 2018 </br></i>
 
