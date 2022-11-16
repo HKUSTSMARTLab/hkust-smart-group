@@ -269,6 +269,7 @@ design:
 <a href="https://ieeexplore.ieee.org/document/7090943/">5. Standard Plane Localization in Fetal Ultrasound via Domain Trsmallansferred Deep Neural Networks</a><i><br>Chen, Hao; Ni, Dong; Qin, Jing; Li, Shengli; Yang, Xin; Wang, Tianfu; Heng, Pheng Ann. <b>IEEE Journal of Biomedical and Health Informatics</b>, 2015 </br></i>
 
 <b>Book Chapter</b>
+
 <a href="https://www.sciencedirect.com/science/article/pii/B9780128160343000092?via%3Dihub">4. Automatic Lesion Detection with Three-dimensional Convolutional Neural Networks</a><i><br>Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Biomedical Information Technology</b> 2020, p. 265-293</br></i>
 
 <a href="https://www.sciencedirect.com/science/article/pii/B9780128161760000156?via%3Dihub">3. Deep multilevel contextual networks for biomedical image segmentation</a><i><br>Chen, Hao; Dou, Qi; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann. <b>Handbook of Medical Image Computing and Computer Assisted Intervention</b> 2019, p. 231-247</br></i>
