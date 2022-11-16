@@ -211,7 +211,7 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/9110911">35. Deep Mining External Imperfect Data for Chest X-ray Disease Screening</a><i><br>Luo, Luyang; Yu, Lequan; Chen, Hao; Liu, Quande; Wang, Xi; Xu, Jiaqi; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 
-<a href="https://www.nature.com/articles/s42256-020-0183-4">34. Towards A New Generation of Artificial Intelligence in China</a><i><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. <b>Nature Machine Intelligence, 2020, <font color="#FF0000">WAIC SAIL Award</font></b> </br></i>
+<a href="https://www.nature.com/articles/s42256-020-0183-4">34. Towards A New Generation of Artificial Intelligence in China</a><i><br>Wu, Fei; Lu, Cewu; Zhu, Mingjie; Chen, Hao; Zhu, Jun; Yu, Kai; Li, Lei; Li, Ming; Chen, Qianfeng; Li, Xi; Cao, Xudong; Wang, Zhongyuan; Zha, Zhengjun; Zhuang, Yueting; Pan, Yunhe. <b>Nature Machine Intelligence</b>, 2020, <b><font color="#FF0000">WAIC SAIL Award</font></b> </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8880654">33. A Multi-Organ Nucleus Segmentation Challenge</a><i><br>Zhou Xiaoyang; Chen, Hao. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
 <i> <b>2019 </b></i><br/>
@@ -225,7 +225,7 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/8764342">28. PNP-AdaNet: Plug-and-play Adversarial Domain Adaptation Network at Unpaired Cross-modality Cardiac Segmentation</a><i><br>Dou, Qi; Ouyang, Cheng; Chen, Cheng; Chen, Hao; Glocker, Ben; Zhuang, Xiahai; Heng, Pheng-Ann. <b>IEEE Access</b>, 2019 </br></i>
 
-<a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30085-8/fulltext">27. Detection of Glaucomatous Optic Neuropathy with Spectral-domain Optical Coherence Tomography: A Retrospective Training and Validation Deep-learning Analysis</a><i><br>Ran, An Ran; Cheung, Carol Y.; Wang, Xi; Chen, Hao; Luo, Lu-yang; Chan, Poemen P.; Wong, Mandy O. M.; Chang, Robert T.; Mannil, Suria S.; Young, Alvin L.; Yung, Hon-wah; Pang, Chi Pui; Heng, Pheng-Ann; Tham, Clement C. <b>The Lancet Digital Health, 2019, <font color="#FF0000">Journal Cover Page</font></b> </br></i>
+<a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(19)30085-8/fulltext">27. Detection of Glaucomatous Optic Neuropathy with Spectral-domain Optical Coherence Tomography: A Retrospective Training and Validation Deep-learning Analysis</a><i><br>Ran, An Ran; Cheung, Carol Y.; Wang, Xi; Chen, Hao; Luo, Lu-yang; Chan, Poemen P.; Wong, Mandy O. M.; Chang, Robert T.; Mannil, Suria S.; Young, Alvin L.; Yung, Hon-wah; Pang, Chi Pui; Heng, Pheng-Ann; Tham, Clement C. <b>The Lancet Digital Health, 2019</b>, <b><font color="#FF0000">Journal Cover Page</font></b> </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8604098">26. Fast ScanNet: Fast and Dense Analysis of Multi-Gigapixel Whole-Slide Images for Cancer Metastasis Detection</a><i><br>Lin, Huangjing; Chen, Hao; Graham, Simon; Dou, Qi; Rajpoot, Nasir; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2019 </br></i>
 
@@ -243,7 +243,7 @@ design:
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841518300136?via%3Dihub">19. 3D multi-scale FCN with Random Modality Voxel Dropout Learning for Intervertebral Disc Localization and Segmentation from Multi-modality MR Images</a><i><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Qi, Xiaojuan; Belavý, Daniel L.; Armbrecht, Gabriele; Felsenberg, Dieter; Zheng, Guoyan; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2018 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/8379359/">18. H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes</a><i><br>Li, Xiaomeng; Chen, Hao; Qi, Xiaojuan; Dou, Qi; Fu, Chi-Wing; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging, 2018, <font color="#FF0000">ESI Highly Cited Paper and Winner of LiTS Challenge</font></b> </br></i>
+<a href="https://ieeexplore.ieee.org/document/8379359/">18. H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes</a><i><br>Li, Xiaomeng; Chen, Hao; Qi, Xiaojuan; Dou, Qi; Fu, Chi-Wing; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2018, <b><font color="#FF0000">ESI Highly Cited Paper and Winner of LiTS Challenge</font></b> </br></i>
 <i> <b>2017 </b></i><br/>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841516301542?via%3Dihub">17. Gland Segmentation in Colon Histology Images: The GLAS Challenge Contest</a><i><br>Sirinukunwattana, Korsuk; Pluim, Josien P.W.; Chen, Hao; Qi, Xiaojuan; Heng, Pheng-Ann; Guo, Yun Bo; Matuszewski, Bogdan J.; Bruni, Elia; Sanchez, Urko; Böhm, Anton; Ronneberger, Olaf; Cheikh, Bassem Ben; Racoceanu, Daniel; Kainz, Philipp; Pfeiffer, Michael; Urschler, Martin; Snead, David R.J.; Rajpoot, Nasir M.. <b>Medical Image Analysis</b>, 2017 </br></i>
 
@@ -261,13 +261,13 @@ design:
 
 <a href="https://doi.org/10.1016/j.media.2016.11.004">10. DCAN: Deep Contour-aware Networks for Object Instance Segmentation from Histology Images</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Dou, Qi; Qin, Jing; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2017 </br></i>
 
-<a href="https://jamanetwork.com/journals/jama/fullarticle/2665774">9. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women with Breast Cancer</a><i><br>Bejnordi, Babak Ehteshami; Veta, Mitko; Van Diest, Paul Johannes; Van Ginneken, Bram; Karssemeijer, Nico; Litjens, Geert; Van Der Laak, Jeroen A.W.M.; Chen, Hao. <b>JAMA - Journal of the American Medical Association, 2017, <font color="#FF0000">First Large-scale WSI Study </font></b> </br></i>
+<a href="https://jamanetwork.com/journals/jama/fullarticle/2665774">9. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women with Breast Cancer</a><i><br>Bejnordi, Babak Ehteshami; Veta, Mitko; Van Diest, Paul Johannes; Van Ginneken, Bram; Karssemeijer, Nico; Litjens, Geert; Van Der Laak, Jeroen A.W.M.; Chen, Hao. <b>JAMA - Journal of the American Medical Association</b>, 2017, <b><font color="#FF0000">First Large-scale WSI Study </font></b> </br></i>
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517301020?via%3Dihub">8. Validation, Comparison, and Combination of Algorithms for Automatic Detection of Pulmonary Nodules in Computed Tomography Images: The LUNA16 Challenge</a><i><br>Setio, Arnaud Arindra Adiyoso; Traverso, Alberto; de Bel, Thomas; Berens, Moira S.N.; Bogaard, Cas van den; Cerello, Piergiorgio; Chen, Hao; Dou, Qi; Fantacci, Maria Evelina; Geurts, Bram; Gugten, Robbert van der; Heng, Pheng Ann; Jansen, Bart; de Kaste, Michael M.J.; Kotov, Valentin; Lin, Jack Yu-Hung; Manders, Jeroen T.M.C.; Sóñora-Mengana, Alexander; García-Naranjo, Juan Carlos; Papavasileiou, Evgenia. <b>Medical Image Analysis</b>, 2017 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7776845/">7. Integrating Online and Offline Three-Dimensional Deep Learning for Automated Polyp Detection in Colonoscopy Videos</a><i><br>Yu, Lequan; Chen, Hao; Dou, Qi; Qin, Jing; Heng, Pheng Ann. <b>IEEE Journal of Biomedical and Health Informatics</b>, 2017 </br></i>
 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517300725?via%3Dihub">6. 3D deeply Supervised Network for Automated Segmentation of Volumetric Medical Images</a><i><br>Dou, Qi; Yu, Lequan; Chen, Hao; Jin, Yueming; Yang, Xin; Qin, Jing; Heng, Pheng-Ann. <b>Medical Image Analysis, 2017, <font color="#FF0000">MIA-Elsevier Best Paper Award </font></b> </br></i>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517300725?via%3Dihub">6. 3D deeply Supervised Network for Automated Segmentation of Volumetric Medical Images</a><i><br>Dou, Qi; Yu, Lequan; Chen, Hao; Jin, Yueming; Yang, Xin; Qin, Jing; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2017, <b><font color="#FF0000">MIA-Elsevier Best Paper Award </font></b> </br></i>
 <i> <b>2016 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/7403984/">5. Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks</a><i><br>Dou, Q.; Chen, Hao; Yu, Lequan; Zhao, Lei; Qin, Jing; Wang, Defeng; Mok, Vincent C.T.; Shi, Lin; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2016 </br></i>
 
