@@ -54,6 +54,8 @@ comments: false  # Show comments?
 design:
   columns: '0'
 ---
+<b>Preprint</b><br/>
+
 <b>Conference</b><br/>
 <i> <b>2022</b> </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">109. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
@@ -72,7 +74,7 @@ design:
 
 <a href="https://ieeexplore.ieee.org/document/9761652">102. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 <i> <b>2021</b> </i><br/>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">101. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention, <font color="#FF0000">Oral</font></b>, 2021 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">101. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention, 2021, <font color="#FF0000">Oral</font></b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_50">100. OXnet: Deep Omni-Supervised Thoracic Disease Detection from Chest X-Rays</a><i><br>Luo, Luyang; Chen, Hao; Zhou, Yanning; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021 </br></i>
 <i> <b>2020</b> </i><br/>
@@ -132,7 +134,7 @@ design:
 <i> <b>2016 </b></i><br/>
 <a href="https://ieeexplore.ieee.org/document/7493482">72. Automated Mitosis Detection with Deep Regression Networks</a><i><br>Chen, Hao; Wang, Xi; Heng, Pheng Ann. <b> Proceedings of International Symposium on Biomedical Imaging</b>, 2016 </br></i>
 
-<a href="https://ieeexplore.ieee.org/document/7780642">71. DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann. <b> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, <font color="#FF0000">Winner of MICCAI GlaS Challenge</font> </b>, 2016</br></i>
+<a href="https://ieeexplore.ieee.org/document/7780642">71. DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Yu, Lequan; Heng, Pheng-Ann. <b> Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2016, <font color="#FF0000">Winner of MICCAI GlaS Challenge</font> </b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-55050-3_8">70. Multi-scale and Modality Dropout Learning for Intervertebral Disc Localization and Segmentation</a><i><br>Li, Xiaomeng; Dou, Qi; Chen, Hao; Fu, Chi-Wing; Heng, Pheng-Ann.<b> International Workshop on Computational Methods and Clinical Applications for Spine Imaging</b>, 2016</br></i>
 
