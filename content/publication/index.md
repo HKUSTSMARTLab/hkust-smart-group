@@ -58,23 +58,23 @@ design:
 
 <b>Conference</b><br/>
 <i> <b>2022</b> </i><br/>
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">109. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">109. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_56">108. Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays</a><i><br> Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_56">108. Dual-Distribution Discrepancy for Anomaly Detection in Chest X-Rays</a><i><br> Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62">107. Frequency-Aware Inverse-Consistent Deep Learning for OCT-Angiogram Super-Resolution</a><i><br> Zhang, Weiwen; Yang, Dawei; Cheung, Carol Y; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_50">106. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement</a><i><br> Che, Haoxuan; Jin, Haibo; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_50">106. Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement</a><i><br> Che, Haoxuan; Jin, Haibo; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_23">105. ORF-Net: Deep Omni-Supervised Rib Fracture Detection from Chest CT Scans</a><i><br>Chai, Zhizhong; Lin, Huangjing; Luo, Luyang; Heng, Pheng-Ann; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_23">105. ORF-Net: Deep Omni-Supervised Rib Fracture Detection from Chest CT Scans</a><i><br>Chai, Zhizhong; Lin, Huangjing; Luo, Luyang; Heng, Pheng-Ann; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">104. InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a><i><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022 </br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-16434-7_14">104. InsMix: Towards Realistic Generative DataAugmentation for Nuclei Instance Segmentation</a><i><br>Lin, Yi; Wang, Zeyu; Cheng, Kwang Ting; Chen, Hao. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9761597">103. Sample Alignment for Image-to-Image Translation Based Medical Domain Adaptation</a><i><br>Li, Heng; Liu, Haofeng; Wang, Xiaoxuan; Yi, Chenlang; Chen, Hao; Hu, Yan; Liu, Jiang. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9761652">102. Deep Semi-Supervised Metric Learning with Dual Alignment for Cervical Cancer Cell Detection</a><i><br>Chai, Zhizhong; Luo, Luyang; Lin, Huangjing; Chen, Hao; Han, Anjja; Heng, Pheng Ann. <b>International Symposium on Biomedical Imaging</b>, 2022 </br></i>
 <i> <b>2021</b> </i><br/>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">101. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021, <b><font color="#FF0000">Oral</font></b></br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_19">101. Dual-Consistency Semi-Supervised Learning with Uncertainty Quantification for COVID-19 Lesion Segmentation from CT Images</a><i><br>Li, Yanwen; Luo, Luyang; Lin, Huangjing; Chen, Hao; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021, <b><font color="#FF0000">Oral Presentation</font></b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-87196-3_50">100. OXnet: Deep Omni-Supervised Thoracic Disease Detection from Chest X-Rays</a><i><br>Luo, Luyang; Chen, Hao; Zhou, Yanning; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2021 </br></i>
 <i> <b>2020</b> </i><br/>
@@ -140,9 +140,9 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-43775-0_34">69. 3D Fully Convolutional Networks for Intervertebral Disc Localization and Segmentation</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Cheng, Jack C.Y.; Heng, Pheng-Ann. <b> International Conference on Medical Imaging and Augmented Reality</b>, 2016, <b><font color="#FF0000">Best Paper Award </font></b></br></i>
 
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/10140">68. Mitosis Detection in Breast Cancer Histology Images via Deep Cascaded Networks</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Heng, Pheng-Ann. <b> Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2016, <b><font color="#FF0000"> Oral </font></b></br></i>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/10140">68. Mitosis Detection in Breast Cancer Histology Images via Deep Cascaded Networks</a><i><br>Chen, Hao; Dou, Qi; Wang, Xi; Qin, Jing; Heng, Pheng-Ann. <b> Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2016, <b><font color="#FF0000"> Oral Presentation</font></b></br></i>
 
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/10141">67. Deep Contextual Networks for Neuronal Structure Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann. <b>Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2016, <b><font color="#FF0000">Oral</font></b></br></i>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/10141">67. Deep Contextual Networks for Neuronal Structure Segmentation</a><i><br>Chen, Hao; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann. <b>Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2016, <b><font color="#FF0000">Oral Presentation</font></b></br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-46723-8_56">66. Iterative Multi-domain Regularized Deep Learning for Anatomical Structure Detection and Segmentation from Ultrasound Images</a><i><br>Chen, Hao; Zheng, Yefeng; Park, Jin-Hyeong; Heng, Pheng-Ann. <b> International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2016</br></i>
 
