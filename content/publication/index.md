@@ -55,6 +55,13 @@ design:
   columns: '0'
 ---
 <b>Preprint</b><br/>
+<a href="">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
+
+<a href="">CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation</a><i><br>Lin, Jianwei; Lin, Jiatai; Lu, Cheng; Chen, Hao; Lin, Huan; Zhao, Bingchao; Shi, Zhenwei; Qiu, Bingjiang; Pan, Xipeng; Xu, Zeyan, 2022
+
+<a href="">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022
+
+<a href="">Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images</a><i><br>Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting, 2022
 
 <b>Conference</b><br/>
 <i> <b>2022</b> </i><br/>
