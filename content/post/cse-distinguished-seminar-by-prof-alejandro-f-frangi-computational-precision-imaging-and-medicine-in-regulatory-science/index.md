@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 image:
-  filename: ale.png
+  filename: 1.png
   focal_point: Smart
   preview_only: false
 ---
@@ -36,8 +36,6 @@ Precision Medicine and highlights connections with past research and our
 current focus on large-scale computational phenomics and in silico
 clinical trials.
 
-
-
 **Time:** 4:00-5:00 PM, Nov 8th, 2022
 
 **Zoom link:** <https://hkust.zoom.us/j/928308079?pwd=ejloVFlRcU5GVTd3QjhtOHhqV2VlZz09>
@@ -47,7 +45,3 @@ clinical trials.
 **Passcode:** 2022
 
 **Record:** <https://cse.hkust.edu.hk/pg/seminars/F22/frangi.mp4>
-
-<br>
-<br>
-<br>
