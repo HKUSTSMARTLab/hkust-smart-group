@@ -19,9 +19,9 @@ superuser: false
 user_groups:
   - Principal Investigator
 ---
-<p style="color:Tomato;">\*New\* Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred (<a href="https://hkustsmartlab.netlify.app/recruitment/">details</a>). If you are HKUST students and interested in doing research with me, please send me an email. </p>
+<p style="color:Tomato;">\\*New\\* Positions (including PhDs/RAs/Postdocs/Interns) are available on Machine Learning in Medical Imaging and Analysis. Strong self-motivation is preferred (<a href="https://hkustsmartlab.netlify.app/recruitment/">details</a>). If you are HKUST students and interested in doing research with me, please send me an email. </p>
 
-# News
+## News
 
 10/22 Ranked Top 2% of Scientists on [Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3).\
 08/22 Honored to serve as Associate Editor of IEEE JBHI.\
