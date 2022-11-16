@@ -1,5 +1,5 @@
 ---
-title: Two papers were accepted in Radiology AI.
+title: One paper was accepted in Radiology AI.
 date: 2022-07-07T03:46:08.917Z
 summary: G﻿ood News! We have two papers accepted in Radiology AI.
 draft: false
@@ -11,13 +11,7 @@ image:
 ---
 <!--StartFragment-->
 
-**G﻿ood News! We have two papers accepted in Radiology AI, shown as follow:**
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-**Rethinking Annotation Granularity for Overcoming Shortcuts in Deep Learning–based Radiograph Diagnosis: A Multicenter Study.**
+**[Rethinking Annotation Granularity for Overcoming Shortcuts in Deep Learning–based Radiograph Diagnosis: A Multicenter Study](https://pubs.rsna.org/doi/abs/10.1148/ryai.210299)**
 
 Fine-grained annotations (ie, lesion bounding boxes) help chest radiograph diagnosis models overcome learning shortcuts by enabling the models to identify the correct lesion areas, leading to significantly improved radiograph-level classification performance. <!--StartFragment-->
 
