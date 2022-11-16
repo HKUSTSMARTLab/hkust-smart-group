@@ -270,13 +270,13 @@ design:
 
 <b>Book Chapter</b>
 
-<a href="https://www.sciencedirect.com/science/article/pii/B9780128160343000092?via%3Dihub">4. Automatic Lesion Detection with Three-dimensional Convolutional Neural Networks</a><i><br>Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Biomedical Information Technology</b> 2020, p. 265-293</br></i>
+<a href="https://www.sciencedirect.com/science/article/pii/B9780128160343000092?via%3Dihub">4. Automatic Lesion Detection with Three-dimensional Convolutional Neural Networks</a><i><br>Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Biomedical Information Technology</b>, 2020, p. 265-293</br></i>
 
-<a href="https://www.sciencedirect.com/science/article/pii/B9780128161760000156?via%3Dihub">3. Deep multilevel contextual networks for biomedical image segmentation</a><i><br>Chen, Hao; Dou, Qi; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann. <b>Handbook of Medical Image Computing and Computer Assisted Intervention</b> 2019, p. 231-247</br></i>
+<a href="https://www.sciencedirect.com/science/article/pii/B9780128161760000156?via%3Dihub">3. Deep multilevel contextual networks for biomedical image segmentation</a><i><br>Chen, Hao; Dou, Qi; Qi, Xiaojuan; Cheng, Jie-Zhi; Heng, Pheng-Ann. <b>Handbook of Medical Image Computing and Computer Assisted Intervention</b>, 2019, p. 231-247</br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-13969-8_5">2. Unsupervised Domain Adaptation of ConvNets for Medical Image Segmentation via Adversarial Learning</a><i><br>Dou, Qi; Chen, Cheng; Ouyang, Cheng; Chen, Hao; Heng, Pheng Ann. <b>Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics</b> 2019, p. 93-115</br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-13969-8_5">2. Unsupervised Domain Adaptation of ConvNets for Medical Image Segmentation via Adversarial Learning</a><i><br>Dou, Qi; Chen, Cheng; Ouyang, Cheng; Chen, Hao; Heng, Pheng Ann. <b>Deep Learning and Convolutional Neural Networks for Medical Imaging and Clinical Informatics</b>, 2019, p. 93-115</br></i>
 
-<a href="https://www.sciencedirect.com/science/article/pii/B9780128104088000080?via%3Dihub">1. Deep Cascaded Networks for Sparsely Distributed Object Detection from Medical Images</a><i><br>Chen, Hao; Dou, Qi; Yu, Lequan; Qin, Jing; Zhao, Lei; Mok, Vincent C.T.; Wang, Defeng; Shi, Lin; Heng, Pheng-Ann. <b>Deep Learning for Medical Image Analysis</b> 2017, p. 133-154</br></i>
+<a href="https://www.sciencedirect.com/science/article/pii/B9780128104088000080?via%3Dihub">1. Deep Cascaded Networks for Sparsely Distributed Object Detection from Medical Images</a><i><br>Chen, Hao; Dou, Qi; Yu, Lequan; Qin, Jing; Zhao, Lei; Mok, Vincent C.T.; Wang, Defeng; Shi, Lin; Heng, Pheng-Ann. <b>Deep Learning for Medical Image Analysis</b>, 2017, p. 133-154</br></i>
 
 <br>
 <br>
