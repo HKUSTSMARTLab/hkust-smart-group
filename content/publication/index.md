@@ -89,7 +89,7 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-59710-8_51">96. Deep Semi-supervised Knowledge Distillation for Overlapping Cervical Cell Instance Segmentation</a><i><br>Zhou, Yanning; Chen, Hao; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2020 </br></i>
 <i> <b>2019 </b></i><br/>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/3874">95. Synergistic image and feature adaptation: Towards cross-modality domain adaptation for medical image segmentation</a><i><br>Chen, Cheng; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2019 </br></i>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/3874">95. Synergistic Image and Feature Adaptation: Towards Cross-modality Domain Adaptation for Medical Image Segmentation</a><i><br>Chen, Cheng; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2019 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8759203">94. Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification</a><i><br>Xue, Cheng; Dou, Qi; Shi, Xueying; Chen, Hao; Heng, Pheng-Ann. <b>International Symposium on Biomedical Imaging</b>, 2019 </br></i>
 
