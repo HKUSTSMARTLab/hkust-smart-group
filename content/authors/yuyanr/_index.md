@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu-yan Ruan
+title: Yu-yan Ruan (Co-supervision)
 
 # Username (this should match the folder name)
 authors:

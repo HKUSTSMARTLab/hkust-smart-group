@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu Cai
+title: Yu Cai (Co-supervision)
 
 # Username (this should match the folder name)
 authors:
