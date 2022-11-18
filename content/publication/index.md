@@ -66,6 +66,7 @@ design:
 <a href="https://arxiv.org/abs/2106.06733">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021
 
 <a href="https://arxiv.org/abs/1901.04056">The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>Patrick Bilic, Patrick Ferdinand Christ, Eugene Vorontsov, Grzegorz Chlebus, Hao Chen etc. , 2019
+
 <b>Conference</b><br/>
 <i> <b>2022</b> </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">112. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
