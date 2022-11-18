@@ -55,17 +55,17 @@ design:
   columns: '0'
 ---
 <b>Preprint</b><br/>
-<a href="">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
+<a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
 
-<a href="">CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation</a><i><br>Lin, Jianwei; Lin, Jiatai; Lu, Cheng; Chen, Hao; Lin, Huan; Zhao, Bingchao; Shi, Zhenwei; Qiu, Bingjiang; Pan, Xipeng; Xu, Zeyan, 2022
+<a href="https://arxiv.org/abs/2207.07370">CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation</a><i><br>Lin, Jianwei; Lin, Jiatai; Lu, Cheng; Chen, Hao; Lin, Huan; Zhao, Bingchao; Shi, Zhenwei; Qiu, Bingjiang; Pan, Xipeng; Xu, Zeyan, 2022
 
-<a href="">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022
+<a href="https://arxiv.org/abs/2209.10307">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022
 
-<a href="">Dual-distribution Discrepancy with Self-supervised Refinement for Anomaly Detection in Medical Images</a><i><br>Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting, 2022
+<a href="https://arxiv.org/abs/2210.04227">Dual-distribution Discrepancy with Self-supervised Refinement for Anomaly Detection in Medical Images</a><i><br>Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting, 2022
 
-<a href="">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021
+<a href="https://arxiv.org/abs/2106.06733">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021
 
-<a href="">The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>Patrick Bilic, Patrick Ferdinand Christ, Eugene Vorontsov, Grzegorz Chlebus, Hao Chen etc. , 2019
+<a href="https://arxiv.org/abs/1901.04056">The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>Patrick Bilic, Patrick Ferdinand Christ, Eugene Vorontsov, Grzegorz Chlebus, Hao Chen etc. , 2019
 <b>Conference</b><br/>
 <i> <b>2022</b> </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">112. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
@@ -92,7 +92,7 @@ design:
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-59710-8_51">96. Deep Semi-supervised Knowledge Distillation for Overlapping Cervical Cell Instance Segmentation</a><i><br>Zhou, Yanning; Chen, Hao; Lin, Huangjing; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2020 </br></i>
 <i> <b>2019 </b></i><br/>
-<a href="">101. Light-Weight Hybrid Convolutional Network for Liver Tumor Segmentation</a><i><br>Zhang, Jianpeng; Xie, Yutong; Zhang, Pingping; Chen, Hao; Xia, Yong; Shen, Chunhua. <b>Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence</b>, 2019 </br></i>
+<a href="https://www.ijcai.org/proceedings/2019/0593.pdf">101. Light-Weight Hybrid Convolutional Network for Liver Tumor Segmentation</a><i><br>Zhang, Jianpeng; Xie, Yutong; Zhang, Pingping; Chen, Hao; Xia, Yong; Shen, Chunhua. <b>Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence</b>, 2019 </br></i>
 
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/3874">100. Synergistic Image and Feature Adaptation: Towards Cross-modality Domain Adaptation for Medical Image Segmentation</a><i><br>Chen, Cheng; Dou, Qi; Chen, Hao; Qin, Jing; Heng, Pheng-Ann. <b>Proceedings of the AAAI Conference on Artificial Intelligence</b>, 2019 </br></i>
 
@@ -173,7 +173,6 @@ design:
 
 <b>Journal</b><br/>
 <i> <b>2022 </b></i><br/>
-
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2782535">62. A Deep Learning System to Predict Response to Anti-Vascular Endothelial Growth Factor (VEGF) Therapy in Eyes with Diabetic Macular Edema for Optical Coherence Tomography Images</a><i><br>Tang, Fangyao; Wang, Xi; Cai, Yu; Chen, Hao; Heng, Pheng-Ann Heng Pheng-Ann; Cheung, Carol Y. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
 
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2783185">61. Using Deep Learning for Assessing Image-Quality of 3D Macular Scans from Spectral-Domain Optical Coherence Tomography</a><i><br>Ziqi, Tang; Wang, Xi; Ran, Anran; Tang, Fangyao; Cai, Yu; Che, Haoxuan; Yang, Dawei Gabriel; Luo, Luyang; Liu, Quande; Wong, Yiu Lun. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
@@ -182,7 +181,7 @@ design:
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522003012">59. Deep Semi-supervised Multiple Instance Learning with Self-correction for DME Classification from OCT Images</a><i><br>Wang, Xi; Tang, Fangyao; Chen, Hao; Cheung, Carol Y; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2022 </br></i>
 
-<a href="">58. Deep Learning for Computational Cytology: A Survey</a><i><br>Jiang, Hao; Zhou, Yanning; Lin, Yi; Chan, Ronald CK; Liu, Jiang; Chen, Hao. <b>Medical Image Analysis</b>, 2022 </br></i>
+<a href="https://arxiv.org/abs/2202.05126">58. Deep Learning for Computational Cytology: A Survey</a><i><br>Jiang, Hao; Zhou, Yanning; Lin, Yi; Chan, Ronald CK; Liu, Jiang; Chen, Hao. <b>Medical Image Analysis</b>, 2022 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9740140">57. PDBL: Improving Histopathological Tissue Classification with Plug-and-Play Pyramidal Deep-Broad Learning</a><i><br>Lin, Jiatai; Han, Guoqiang; Pan, Xipeng; Liu, Zaiyi; Chen, Hao; Li, Danyi; Jia, Xiping; Shi, Zhenwei; Wang, Zhizhen; Cui, Yanfen; Li, Haiming; Liang, Changhong; Liang, Li; Wang, Ying; Han, Chu. <b>IEEE Transactions on Medical Imaging</b>, 2022 </br></i>
 
@@ -204,9 +203,9 @@ design:
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/jgh.15327">48. Potentials of AI in Medical Image Analysis in Gastroenterology and Hepatology</a><i><br>Chen, Hao; Sung, Joseph J.Y.. <b>Journal of Gastroenterology and Hepatology</b>, 2021 </br></i>
 
-<a href="">47. Deep learning for source code modeling and generation: Models, applications, and challenges</a><i><br>Le, Triet HM; Chen, Hao; Babar, Muhammad Ali. <b>ACM Computing Surveys</b>, 2021</br></i>
+<a href="https://dl.acm.org/doi/abs/10.1145/3383458">47. Deep Learning for Source Code Modeling and Generation: Models, Applications, and Challenges</a><i><br>Le, Triet HM; Chen, Hao; Babar, Muhammad Ali. <b>ACM Computing Surveys</b>, 2021</br></i>
 <i> <b>2020 </b></i><br/>
-<a href="">46. Brain tumor segmentation with deep convolutional symmetric neural network</a><i><br>Chen, Hao; Qin, Zhiguang; Ding, Yi; Tian, Lan; Qin, Zhen. <b>Neurocomputing</b>, 2020 </br></i>
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231219304692">46. Brain Tumor Segmentation with Deep Convolutional Symmetric Neural Network</a><i><br>Chen, Hao; Qin, Zhiguang; Ding, Yi; Tian, Lan; Qin, Zhen. <b>Neurocomputing</b>, 2020 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/8822590">45. Weakly Supervised Deep Learning for Whole Slide Lung Cancer Image Analysis</a><i><br>Wang, Xi; Chen, Hao; Gan, Caixia; Lin, Huangjing; Dou, Qi; Tsougenis, Efstratios; Huang, Qitao; Cai, Muyan; Heng, Pheng-Ann. <b>IEEE Transactions on Cybernetics</b>, 2020 </br></i>
 
@@ -282,9 +281,9 @@ design:
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841517300725?via%3Dihub">9. 3D Deeply Supervised Network for Automated Segmentation of Volumetric Medical Images</a><i><br>Dou, Qi; Yu, Lequan; Chen, Hao; Jin, Yueming; Yang, Xin; Qin, Jing; Heng, Pheng-Ann. <b>Medical Image Analysis</b>, 2017, <b><font color="#FF0000">MIA-Elsevier Best Paper Award </font></b> </br></i>
 <i> <b>2016 </b></i><br/>
-<a href="">8. EndoRCN: Recurrent Convolutional Networks for Recognition of Surgical Workflow in Cholecystectomy Procedure Video</a><i><br>Jin, Yueming; Dou, Qi; Chen, Hao; Yu, Lequan; Heng, Pheng-Ann;  <b>IEEE Transactions on Medical Imaging</b>, 2016 </br></i>
+<a href="http://camma.u-strasbg.fr/m2cai2016/reports/Jin-Workflow.pdf">8. EndoRCN: Recurrent Convolutional Networks for Recognition of Surgical Workflow in Cholecystectomy Procedure Video</a><i><br>Jin, Yueming; Dou, Qi; Chen, Hao; Yu, Lequan; Heng, Pheng-Ann;  <b>IEEE Transactions on Medical Imaging</b>, 2016 </br></i>
 
-<a href="">7. Special Issue on Deep Learning in Medical Imaging</a><i><br>Greenspan, H; van Ginneken, B; Summers, R; Setio, AAA; Ciompi, F; Litjens, G; Gerke, P; Jacobs, C; van Riel, SJ; Wille, MMW. <b>IEEE Transactions on Medical Imaging</b>, 2016 </br></i>
+<a href="https://ieeexplore.ieee.org/abstract/document/7463103/">7. Special Issue on Deep Learning in Medical Imaging</a><i><br>Greenspan, H; van Ginneken, B; Summers, R; Setio, AAA; Ciompi, F; Litjens, G; Gerke, P; Jacobs, C; van Riel, SJ; Wille, MMW. <b>IEEE Transactions on Medical Imaging</b>, 2016 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/7403984/">6. Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks</a><i><br>Dou, Q.; Chen, Hao; Yu, Lequan; Zhao, Lei; Qin, Jing; Wang, Defeng; Mok, Vincent C.T.; Shi, Lin; Heng, Pheng-Ann. <b>IEEE Transactions on Medical Imaging</b>, 2016 </br></i>
 
