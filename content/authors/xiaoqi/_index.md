@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao-qi Ma
+title: Xiao-qi Ma (Co-supervision)
 
 
 # Username (this should match the folder name)
