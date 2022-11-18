@@ -55,6 +55,7 @@ design:
   columns: '0'
 ---
 <b>Preprint</b><br/>
+
 <a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
 
 <a href="https://arxiv.org/abs/2207.07370">CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation</a><i><br>Lin, Jianwei; Lin, Jiatai; Lu, Cheng; Chen, Hao; Lin, Huan; Zhao, Bingchao; Shi, Zhenwei; Qiu, Bingjiang; Pan, Xipeng; Xu, Zeyan, 2022
@@ -68,6 +69,7 @@ design:
 <a href="https://arxiv.org/abs/1901.04056">The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>Patrick Bilic, Patrick Ferdinand Christ, Eugene Vorontsov, Grzegorz Chlebus, Hao Chen etc. , 2019
 
 <b>Conference</b><br/>
+
 <i> <b>2022</b> </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">112. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
 
@@ -171,8 +173,8 @@ design:
 <i> <b>2014 </b></i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-10581-9_16">63. Fetal Abdominal Standard Plane Localization Through Representation Learning with Knowledge Transfer</a><i><br>Chen, Hao; Ni, Dong; Yang, Xin; Li, Shengli; Heng, Pheng Ann. <b>International Workshop on Machine Learning in Medical Imaging</b>, 2014</br></i>
 
-
 <b>Journal</b><br/>
+
 <i> <b>2022 </b></i><br/>
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2782535">62. A Deep Learning System to Predict Response to Anti-Vascular Endothelial Growth Factor (VEGF) Therapy in Eyes with Diabetic Macular Edema for Optical Coherence Tomography Images</a><i><br>Tang, Fangyao; Wang, Xi; Cai, Yu; Chen, Hao; Heng, Pheng-Ann Heng Pheng-Ann; Cheung, Carol Y. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
 
