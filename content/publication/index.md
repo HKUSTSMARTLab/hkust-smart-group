@@ -61,7 +61,9 @@ design:
 
 <a href="">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022
 
-<a href="">Dual-distribution discrepancy with self-supervised refinement for anomaly detection in medical images</a><i><br>Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting, 2022
+<a href="">Dual-distribution Discrepancy with Self-supervised Refinement for Anomaly Detection in Medical Images</a><i><br>Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting, 2022
+
+<a href="">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021
 
 <b>Conference</b><br/>
 <i> <b>2022</b> </i><br/>
@@ -198,7 +200,11 @@ design:
 <a href="https://www.frontiersin.org/articles/10.3389/fendo.2021.771997/full">45. Prediction of Treatment Response According to ASAS-EULAR Management Recommendations in 1 Year for Hip Involvement in Axial Spondyloarthritis Based on MRI and Clinical Indicators</a><i><br>Xie, Zhuoyao; Lu, Zixiao; Chen, Hao; Ye, Qiang; Guo, Chang; Zheng, Kai; Li, Xin; Xie, Qiuxia; Hu, Shaoyong; Zhou, Quan; Zhao, Yinghua. <b>Frontiers in Endocrinology</b>, 2021 </br></i>
 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/jgh.15327">44. Potentials of AI in Medical Image Analysis in Gastroenterology and Hepatology</a><i><br>Chen, Hao; Sung, Joseph J.Y.. <b>Journal of Gastroenterology and Hepatology</b>, 2021 </br></i>
+
+<a href="">Deep learning for source code modeling and generation: Models, applications, and challenges</a><i><br>Le, Triet HM; Chen, Hao; Babar, Muhammad Ali. <b>ACM Computing Surveys</b>, 2021</br></i>
 <i> <b>2020 </b></i><br/>
+<a href="">Brain tumor segmentation with deep convolutional symmetric neural network</a><i><br>Chen, Hao; Qin, Zhiguang; Ding, Yi; Tian, Lan; Qin, Zhen. <b>Neurocomputing</b>, 2020 </br></i>
+
 <a href="https://ieeexplore.ieee.org/document/8822590">43. Weakly Supervised Deep Learning for Whole Slide Lung Cancer Image Analysis</a><i><br>Wang, Xi; Chen, Hao; Gan, Caixia; Lin, Huangjing; Dou, Qi; Tsougenis, Efstratios; Huang, Qitao; Cai, Muyan; Heng, Pheng-Ann. <b>IEEE Transactions on Cybernetics</b>, 2020 </br></i>
 
 <a href="https://ieeexplore.ieee.org/document/9130071">42. Rectifying Supporting Regions with Mixed and Active Supervision for Rib Fracture Recognition</a><i><br>Huang, Yi-Jie; Liu, Weiping; Wang, Xiuying; Fang, Qu; Wang, Renzhen; Wang, Yi; Chen, Huai; Chen, Hao; Meng, Deyu; Wang, Lisheng. <b>IEEE Transactions on Medical Imaging</b>, 2020 </br></i>
