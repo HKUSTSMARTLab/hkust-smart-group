@@ -54,7 +54,7 @@ comments: false  # Show comments?
 design:
   columns: '0'
 ---
-<b>Preprint</b><br/>
+<b><i>Preprint</i></b><br/>
 
 <a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
 
