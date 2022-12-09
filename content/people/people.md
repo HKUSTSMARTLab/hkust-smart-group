@@ -21,7 +21,8 @@ content:
     - Postdoctoral Fellow
     - PhD Candidate
     - PhD Student
-    - Graduate Student
+    - MPhil Student
+    - Undergraduate Student
     - Visitors
     - Alumni
 design:
