@@ -19,9 +19,9 @@ content:
   user_groups:
     - Principal Investigator
     - Postdoctoral Fellow
-    - PhD Candidate
     - PhD Student
     - MPhil Student
+    - MSc Student
     - Undergraduate Student
     - Visitors
     - Alumni
