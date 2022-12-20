@@ -12,7 +12,7 @@ summary: >-
 draft: false
 featured: false
 image:
-  filename: computationalcytology.jpg
+  filename: computationalcytology.png
   focal_point: Smart
   preview_only: false
 ---
