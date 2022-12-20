@@ -12,7 +12,7 @@ summary: >-
 draft: false
 featured: false
 image:
-  filename: breastcancer.jpg
+  filename: breastcancer.png
   focal_point: Smart
   preview_only: false
 ---
