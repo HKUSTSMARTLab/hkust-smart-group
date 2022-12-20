@@ -1,5 +1,5 @@
 ---
-title: AI for Computational Cytology
+title: AI for Computational Pathology
 date: 2022-12-20T13:18:25.719Z
 summary: >-
   <!--StartFragment-->
