@@ -6,7 +6,8 @@ title: Lu-Yang Luo
 # Username (this should match the folder name)
 authors:
   - luyang
-  
+ 
+weight: 1
   
 # Is this the primary user of the site?
 superuser: false
