@@ -6,7 +6,8 @@ title: Juyoung Bae
 # Username (this should match the folder name)
 authors:
   - Juyoung
-  
+
+weight: 1
   
 # Is this the primary user of the site?
 superuser: false
