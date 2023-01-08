@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yi Lin
+title: Yi Lin (Co-supervision)
 
 
 # Username (this should match the folder name)
