@@ -1,6 +1,6 @@
 ---
-title: "[ICLR 2023 Workshop] Call for Papers:  - Trustworthy Machine Learning
-  for Healthcare Workshop"
+title: "[ICLR 2023 Workshop] Call for Papers: Trustworthy Machine Learning for
+  Healthcare Workshop"
 date: 2023-01-12T11:25:28.364Z
 summary: Following the ICLR 2023 main conference, we will host the workshop
   \[Trustworthy Machine Learning for Healthcare Workshop] on May 4-5, 2023. The
