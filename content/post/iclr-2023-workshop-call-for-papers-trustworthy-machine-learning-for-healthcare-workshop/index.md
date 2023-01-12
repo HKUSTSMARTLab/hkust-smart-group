@@ -18,7 +18,7 @@ image:
 ---
 <!--StartFragment-->
 
-Following the ICLR 2023 main conference, we will host the workshop \[Trustworthy Machine Learning for Healthcare Workshop] on May 4-5, 2023. The purpose of this workshop is to provide different perspectives on how to develop trustworthy ML algorithms to accelerate the landing of ML in healthcare. We also strongly encourage workshops aiming to create and strengthen communities. To this end, we are soliciting paper submissions and looking forward your coming for this workshop.
+Following the ICLR 2023 main conference, we will host the workshop [[Trustworthy Machine Learning for Healthcare Workshop](https://sites.google.com/view/tml4h2023/home?authuser=0)] on May 4-5, 2023. The purpose of this workshop is to provide different perspectives on how to develop trustworthy ML algorithms to accelerate the landing of ML in healthcare. We also strongly encourage workshops aiming to create and strengthen communities. To this end, we are soliciting paper submissions and looking forward your coming for this workshop.
 
 <!--EndFragment-->
 
