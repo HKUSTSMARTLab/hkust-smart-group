@@ -53,6 +53,3 @@ content:
 design:
   columns: '1'
 ---
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=JuCEMpNzqyVTLQiNouHGkgVkDSUdnRYlmMt7amzdbLw'></script>
