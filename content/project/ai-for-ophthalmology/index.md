@@ -13,7 +13,7 @@ summary: Deep learning-based imaging analysis is capable of providing more
 draft: false
 featured: false
 image:
-  filename: ophthalmology.png
+  filename: op.png
   focal_point: Smart
   preview_only: false
 ---
