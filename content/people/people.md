@@ -25,6 +25,7 @@ content:
     - Undergraduate Student
     - Visitors
     - Alumni
+    - Research Assistant
 design:
   show_interests: false
   show_role: true
