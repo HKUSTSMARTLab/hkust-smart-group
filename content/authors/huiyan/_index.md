@@ -49,15 +49,15 @@ social:
   #- icon: paperclip
   #  icon_pack: fas
   #  link: https://llyxc.github.io/
-  #- icon: linkedin
-  #  icon_pack: fab
-  #  link: https://www.linkedin.com/in/luyang-luo/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=3flTFBQAAAAJ&hl=zh-CN
-  - icon: github
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/moothes
+    link: https://www.linkedin.com/in/huiyan-hu-5a8a61187/
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.com.hk/citations?user=3flTFBQAAAAJ&hl=zh-CN
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/moothes
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
