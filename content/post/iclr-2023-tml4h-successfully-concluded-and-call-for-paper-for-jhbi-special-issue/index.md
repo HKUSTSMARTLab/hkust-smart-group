@@ -12,11 +12,20 @@ image:
 ---
 <!--StartFragment-->
 
-The [2023 ICLR Workshop on Trustworthy Machine Learning for Healthcare (TML4H)](https://sites.google.com/view/tml4h2023) has successfully concluded! We would like to thank the Advisory and Program Committees for their strong support, as well as the Student Organizers for their dedicated assistance. The conference received endorsement from MICCAI and featured six keynote speakers and 18 oral presentations. Accepted papers will be published in the Springer Lecture Notes in Computer Science series, similar to top conferences such as MICCAI and ECCV. One Best Paper Award (for interpretable research by Konstantin from the University of Cambridge) and two Honorable Mentions were awarded. We look forward to seeing everyone again at next year's TML4H workshop!
+The [2023 ICLR Workshop on Trustworthy Machine Learning for Healthcare (TML4H)](https://sites.google.com/view/tml4h2023) has successfully concluded! We would like to thank the Advisory and Program Committees for their strong support, as well as the Student Organizers for their dedicated assistance. 
+
+![](7.png)
+![](8.png)
+![](9.png)
+![](10.png)
+
+The conference received endorsement from MICCAI and featured six keynote speakers and 18 oral presentations. Accepted papers will be published in the Springer Lecture Notes in Computer Science series. One Best Paper Award (for interpretable research by Konstantin from the University of Cambridge) and two Honorable Mentions were awarded. 
 
 ![](2.png)
 ![](3.png)
 ![](5.png)
+
+We look forward to seeing everyone again at next year's TML4H workshop!
 <!--EndFragment-->
 
 <!--StartFragment-->
