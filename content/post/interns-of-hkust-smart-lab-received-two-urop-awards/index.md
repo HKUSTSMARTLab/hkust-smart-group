@@ -13,6 +13,10 @@ image:
 
 Two Intern UG students, Siyu CHEN and Weiwen ZHANG from HKUST SMART lab has won HKUST UROP awards. The [HKUST UROP (Undergraduate Research Opportunities Program)](https://urop.hkust.edu.hk/) is a university-wide program that provides opportunities for undergraduate students to participate in research projects under the supervision of faculty members. The program aims to nurture students' research skills and broaden their horizons through hands-on experience in research. Congrats to all! 
 
+The **Undergraduate Research Opportunities Program Award** (formerly known as the Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award) is presented to students who have demonstrated outstanding performance in completing UROP projects each year. More than 700 students participate in UROP projects annually, and only **seven** awards are granted, representing the **top 1%** of UROP participants. These include **one** Champion, **two*** First Runner-ups, **three** Second Runner-ups, and one Best Poster Presentation Award. Supervisors of awardees are also presented with the UROP Faculty Research Award. 
+
+This prestigious award recognizes the exceptional research guidance provided by the supervisors and rewards outstanding students for their hard work. Furthermore, it serves as a source of motivation and inspiration for students to pursue their research interests in the future.
+
 We will attract more talented UG students to work with us in the future. If you are HKUST students and you are interested in Medical Image Analysis, please contact us via email in the [Contact page](https://hkustsmartlab.netlify.app/contact/).
 
 The following are the detail of the two projects on the topic *Deep Learning for Ophthalmology Image Analysis*.
