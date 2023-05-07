@@ -16,7 +16,7 @@ The [2023 ICLR Workshop on Trustworthy Machine Learning for Healthcare (TML4H)](
 
 ![](2.png)
 ![](3.png)
-
+![](5.png)
 <!--EndFragment-->
 
 <!--StartFragment-->
@@ -24,7 +24,7 @@ The [2023 ICLR Workshop on Trustworthy Machine Learning for Healthcare (TML4H)](
 ## **Call for papers for Post-workshop JBHI special issue**
 
 ![](4.png)
-
+![](6.jpg)
 As part of the post-workshop activities, we are organizing a special issue in the [IEEE Journal of Biomedical and Health Informatics (J-BHI) titled "Trustworthy Machine Learning for Health Informatics"](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2023/05/Trustworthy-20230401_CallforPapers_TMLH.pdf). We welcome submissions of relevant articles in this field!
 
 <!--EndFragment-->
