@@ -5,7 +5,7 @@ date: 2022-11-11T03:34:19.810Z
 summary: |-
   <!--StartFragment-->
 
-  G﻿ood News! We have two papers accepted in Medical Image Analysis.
+  Good News! We have two papers accepted in Medical Image Analysis.
 
   <!--EndFragment-->
 draft: false

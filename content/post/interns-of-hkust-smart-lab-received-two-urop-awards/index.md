@@ -1,6 +1,6 @@
 ---
 title: "Intern Students of HKUST SMART Lab Won Two UROP Awards"
-date: 2023-01-12T11:25:28.364Z
+date: 2023-04-26T12:25:28.364Z
 summary: Good news! Two of our intern students have won the UROP awards. Congratulations to them!
 draft: false
 featured: false
