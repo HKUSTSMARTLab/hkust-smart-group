@@ -21,14 +21,6 @@ The [2023 ICLR Workshop on Trustworthy Machine Learning for Healthcare (TML4H)](
 
 <!--StartFragment-->
 
-## **Overview**
-
-Machine learning (ML) has achieved or even exceeded human performance in many healthcare tasks, owing to the fast development of ML techniques and the growing scale of medical data. However, ML techniques are still far from being widely applied in practice. Real-world scenarios are far more complex, and ML is often faced with challenges in its trustworthiness such as lack of explainability, generalization, fairness, privacy, etc. Improving the credibility of machine learning is hence of great importance to enhance the trust and confidence of doctors and patients in using the related techniques. We aim to bring together researchers from interdisciplinary fields, including but not limited to machine learning, clinical research, and medical imaging, etc., to provide different perspectives on how to develop trustworthy ML algorithms to accelerate the landing of ML in healthcare.
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 ## **Call for papers for Post-workshop JBHI special issue**
 
 ![](4.png)
