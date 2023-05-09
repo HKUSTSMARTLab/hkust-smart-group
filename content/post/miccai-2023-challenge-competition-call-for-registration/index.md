@@ -1,6 +1,6 @@
 ---
 title: "[MICCAI-MMAC 2023 Challenge] Call for Participation"
-date: 2023-05-09T23:25:28.364Z
+date: 2023-05-09T15:25:28.364Z
 summary: As one of the important challenges of MICCAI 2023, the "Myopic Maculopathy Analysis Challenge (MMAC)" hosted by the MICCAI Society, and jointly organized by Shanghai Jiao Tong University, Tsinghua Medicine, Hong Kong University of Science and Technology, Singapore National Eye Center, and The Chinese University of Hong Kong, was officially opened for registration on April 23, 2023. Everyone is welcome to participate.
 draft: false
 featured: false
@@ -33,6 +33,9 @@ Participants are free to choose one or more tasks to participate in the challeng
 
 ## **Detail Information**
 
+<!--EndFragment-->
+
+<!--StartFragment-->
 ### **Important Dates**
 
 Submission start date: June 15, 2023          

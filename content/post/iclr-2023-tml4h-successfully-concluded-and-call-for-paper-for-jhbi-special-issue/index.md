@@ -1,8 +1,7 @@
 ---
 title: "[ICLR 2023 Workshop] 1st TML4H Workshop Successfully Concluded & Call for Papers for JHBI Special Issue"
 date: 2023-05-05T23:25:28.364Z
-summary: The workshop
-  Trustworthy Machine Learning for Healthcare Workshop was successfully held. We also call for papers for the Post-workshop special issue of Journal of Healthcare and Biomedical Informatics (JHBI).
+summary: The workshop Trustworthy Machine Learning for Healthcare Workshop was successfully held. We also call for papers for the Post-workshop special issue of Journal of Healthcare and Biomedical Informatics (JHBI).
 draft: false
 featured: false
 image:
