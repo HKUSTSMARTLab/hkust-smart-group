@@ -47,6 +47,8 @@ Trustworthy AI, Medical Image Analysis, Deep Learning, Computer Vision, Computat
 
 ## Selected Awards
 
+◎05/2023 UROP Faculty Research Award                
+◎01/2023 Distinguished Reviewers Award of CMIG in recognition of distinguished service to the journal and its authors.             
 ◎10/2022 Ranked Top 2% of Scientists on Stanford List.\
 ◎08/2022 IEEE TMI Distinguished Reviewer Award (Gold Level)\
 ◎06/2022 UROP Faculty Research Award\
