@@ -9,7 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
 <!--StartFragment-->
+
 ## **Introduction**
 [MICCAI (Medical Image Computing and Computer Assisted Intervention)](http://www.miccai.org/) is an internationally recognized, highly influential academic conference in the field of medical image analysis. Its main goal is to promote research and innovation in medical image computing and computer-assisted intervention. Participants share their latest research results, technological innovations, and practical experiences at the conference. The conference includes various forms of activities such as academic paper presentations, poster exhibitions, and challenges. The main topics of the MICCAI conference cover medical image analysis, computer-assisted intervention, medical imaging systems, and applications. The conference is held once a year and attracts researchers, engineers, and doctors from academia and industry worldwide.
 
