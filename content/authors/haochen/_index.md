@@ -23,11 +23,19 @@ user_groups:
 
 ## News
 
-10/22 Ranked Top 2% of Scientists on [Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3).\
-08/22 Honored to serve as Associate Editor of IEEE JBHI.\
-08/22 Elevation to IEEE Senior Member. \
-07/22 Two papers were accepted in Radiology AI.\
-05/22 Six papers were accepted in MICCAI 2022 (five are early accept).          
+
+05/23 Two UG students won the UROP Awards (one is First Runner-up and One is Second Runner-up). Congrats to Siyu and Weiwen!                
+04/23 One paper was accepted in IJCAI 2023 and one was accepted in Medical Image Analysis.          
+04/23 We are organizing the 2023 MICCAI challenge on Myopic Maculopathy Analysis Challenge.          
+04/23 We are organizing the 2023 MICCAI Workshops on Ophthalmic Medical Image Analysis (OMIA-X) and Multiscale Multimodal Medical Imaging (MMMI).           
+04/23 We are organizing the 2023 ICCV Workshop on Computer Vision for Automated Medical Diagnosis.
+03/23 Three papers were accepted in CVPR 2023.           
+02/23 One paper was accepted in IPMI 2023.              
+01/23 Invited to serve as Area Chair in MICCAI 2023 and MIDL 2023.           
+12/22 We are organizing 2023 ICLR Workshop on [Trustworthy Machine Learning in Healthcare](https://sites.google.com/view/tml4h2023/home).           
+11/22 Three papers were accepted in Medical Image Analysis.            
+
+Biography     
 
 ## Biography
 
