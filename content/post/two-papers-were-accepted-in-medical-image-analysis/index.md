@@ -1,5 +1,5 @@
 ---
-title: Two papers were accepted in Medical Image Analysis.
+title: Two papers were accepted in Medical Image Analysis
 subtitle: ""
 date: 2022-11-11T03:34:19.810Z
 summary: |-
