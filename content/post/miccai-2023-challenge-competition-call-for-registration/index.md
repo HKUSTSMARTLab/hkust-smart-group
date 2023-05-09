@@ -1,12 +1,21 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "[MICCAI-MMAC 2023 Challenge] Call for Participation"
-date: 2023-05-19T15:46:08.917Z
-summary: The Myopic Maculopathy Analysis Challenge (MMAC) hosted by the MICCAI Society, and jointly organized by Shanghai Jiao Tong University, Tsinghua Medicine, Hong Kong University of Science and Technology, Singapore National Eye Center, and The Chinese University of Hong Kong, was officially opened for registration on April 23, 2023. Everyone is welcome to participate.
-draft: false
+subtitle: ""
+summary: "The Myopic Maculopathy Analysis Challenge (MMAC) hosted by the MICCAI Society, and jointly organized by Shanghai Jiao Tong University, Tsinghua Medicine, Hong Kong University of Science and Technology, Singapore National Eye Center, and The Chinese University of Hong Kong, was officially opened for registration on April 23, 2023. Everyone is welcome to participate."
+date: 2023-05-09T13:36:52+08:00
+lastmod: 2023-05-09T13:36:52+08:00
 featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   filename: 1.png
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
 ---
 
