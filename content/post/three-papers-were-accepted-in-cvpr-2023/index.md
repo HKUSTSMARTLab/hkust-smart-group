@@ -10,7 +10,7 @@ summary: |-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 4.png
   focal_point: Smart
   preview_only: false
 ---
