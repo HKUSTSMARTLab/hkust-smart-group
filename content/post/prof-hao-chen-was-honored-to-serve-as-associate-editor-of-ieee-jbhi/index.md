@@ -1,6 +1,7 @@
 ---
 title: Prof. Hao Chen was honored to serve as Associate Editor of IEEE JBHI
 date: 2022-08-08T03:24:44.134Z
+lastmod: 2022-08-08T03:24:44.134Z
 draft: false
 featured: false
 image:

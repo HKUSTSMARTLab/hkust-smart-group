@@ -2,6 +2,7 @@
 title: "Keynotes in AICI Forum by Prof. Hao CHEN: Towards Trustworthy AI for
   Medical Imaging and Analysis"
 date: 2022-11-15T13:24:21.488Z
+lastmod: 2022-11-15T13:24:21.488Z
 draft: false
 featured: false
 image:

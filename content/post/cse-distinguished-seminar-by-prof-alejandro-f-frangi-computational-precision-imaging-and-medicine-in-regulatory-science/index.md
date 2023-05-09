@@ -2,6 +2,7 @@
 title: "CSE Distinguished Seminar by Prof. Alejandro F FRANGI: Computational
   Precision Imaging and Medicine in Regulatory Science"
 date: 2022-11-15T13:14:58.810Z
+lastmod: 2022-11-15T13:14:58.810Z
 summary: ""
 draft: false
 featured: false

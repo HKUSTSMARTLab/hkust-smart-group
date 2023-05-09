@@ -2,7 +2,8 @@
 title: Six papers were accepted in MICCAI 2022 (five are early accept).
 subtitle: ""
 date: 2022-05-05T03:18:17.780Z
-summary: G﻿ood News! We have six papers accepted in MICCAI 2022.
+lastmod: 2022-05-05T03:18:17.780Z
+summary: Good News! We have six papers accepted in MICCAI 2022.
 draft: false
 featured: false
 image:
@@ -10,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-G﻿ood News! We have six papers accepted in MICCAI 2022, shown as follow:
+Good News! We have six papers accepted in MICCAI 2022, shown as follow:
 
 <!--StartFragment-->
 

@@ -1,6 +1,7 @@
 ---
 title: Prof. Hao CHEN elevated to IEEE Senior Member
 date: 2022-11-16T13:09:52.240Z
+lastmod: 2022-11-16T13:09:52.240Z
 draft: false
 featured: false
 image:
