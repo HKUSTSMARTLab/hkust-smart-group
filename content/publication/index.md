@@ -203,7 +203,7 @@ design:
 <b>Journal</b><br/>
 
 <i> <b>2023 </b></i><br/>
-<a href="https://ieeexplore.ieee.org/iel7/42/4359023/10056308.pdf">67. CKD-TransBTS: Clinical Knowledge-driven Hybrid Transformer with Modality-correlated Cross-attention for Brain Tumor Segmentation</a><i><br>J Lin, J Lin, C Lu, H Chen, H Lin, B Zhao, Z Shi, B Qiu, X Pan, etc<b>IEEE Transactions on Medical Imaging/b>, 2023 </br></i>
+<a href="https://ieeexplore.ieee.org/iel7/42/4359023/10056308.pdf">67. CKD-TransBTS: Clinical Knowledge-driven Hybrid Transformer with Modality-correlated Cross-attention for Brain Tumor Segmentation</a><i><br>J Lin, J Lin, C Lu, H Chen, H Lin, B Zhao, Z Shi, B Qiu, X Pan, etc<b>IEEE Transactions on Medical Imaging</b>, 2023 </br></i>
 
 <a href="https://doi.org/10.1016/j.media.2022.102680">66. The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>P Bilic, P Christ, HB Li, E Vorontsov, A Ben-Cohen, G Kaissis, A Szeski etc <b>Medical Image Analysis</b>, 2023 </br></i>
 
