@@ -56,7 +56,13 @@ design:
 ---
 <b><i>Preprint</i></b><br/>
 
+<a href="https://arxiv.org/abs/2305.00678">Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation</a><i><br>Y Lin, D Zhang, X Fang, Y Chen, KT Cheng, H Chen, 2023
 
+<a href="https://arxiv.org/abs/2304.06931">Scale Federated Learning for Label Set Mismatch in Medical Image Classification</a><i><br>Z Deng, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2304.06662">Deep Learning in Breast Cancer Imaging: A Decade of Progress and Future Directions</a><i><br>L Luo, X Wang, Y Lin, X Ma, A Tan, R Chan etc, 2023
+
+<a href="https://arxiv.org/abs/2304.02389">DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images</a><i><br>B Qian, H Chen, X Wang, H Che, G Kwon, J Kim, S Choi etc, 2023
 
 <a href="https://arxiv.org/abs/2304.00466">Learning Agreement from Multi-source Annotations for Medical Image Segmentation</a><i><br>Y Wang, L Luo, M Wu, Q Wang, H Chen, 2023
 
