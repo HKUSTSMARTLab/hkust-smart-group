@@ -58,11 +58,11 @@ design:
 
 
 
-<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+<a href="https://arxiv.org/abs/2304.00466">Learning Agreement from Multi-source Annotations for Medical Image Segmentation</a><i><br>Y Wang, L Luo, M Wu, Q Wang, H Chen, 2023
 
-<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.15749">Iteratively Coupled Multiple Instance Learning from Instance to Bag Classifier for Whole Slide Image Classification</a><i><br>H Wang, L Luo, F Wang, R Tong, YW Chen, H Hu, L Lin, H Chen, 2023
 
-<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.15038">Image Quality-aware Diagnosis via Meta-knowledge Co-embedding</a><i><br>H Che, S Chen, H Chen, 2023
 
 <a href="https://arxiv.org/abs/2303.14373">DoNet: Deep De-overlapping Network for Cytology Instance Segmentation</a><i><br>H Jiang, R Zhang, Y Zhou, Y Wang, H Chen, 2023
 
