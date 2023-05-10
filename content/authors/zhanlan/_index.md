@@ -1,29 +1,32 @@
 ---
 # Display name
-title: Yu-fan Chen
+title: Lu-Yang Luo
+
 
 # Username (this should match the folder name)
 authors:
-  - Yufan
-
+  - luyang
+ 
+  
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
-#organizations:
-#  - name: Stanford University
-#    url: ''
+organizations:
+  - name: The Hong Kong University of Science and Technology
+    url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currrently a post-doctoral fellow in the CSE department, HKUST, working with Prof. Hao Chen. Before that, I received my Ph.D. from the CSE department, CUHK, advised by Prof. HENG Pheng-Ann and Prof. WONG, Tien-Tsin. Previously, I received my B.Sc. from the CSE department, CUHK in 2018.
 
-#interests:
-#  - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+
+Research Interests:
+  - Trustworthy AI
+  - Efficient Learning
+  - Medical Image Analysis
 
 #education:
 #  courses:
@@ -42,18 +45,18 @@ role: PhD Student
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  #- icon: paperclip
-  #  icon_pack: fas
-  #  link: https://caiyu6666.github.io/
+  - icon: paperclip
+    icon_pack: fas
+    link: https://llyxc.github.io/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%E9%9B%A8%E5%87%A1-%E9%99%88-5b958b230/
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.com/citations?user=kR5LuzgAAAAJ&hl=zh-CN
+    link: https://www.linkedin.com/in/luyang-luo/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=eD1O_vAAAAAJ&hl=zh-TW
   - icon: github
     icon_pack: fab
-    link: https://github.com/CYF2000127
+    link: https://github.com/LLYXC
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,5 +69,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Student
+  - Postdoctoral Fellow
+
 ---
