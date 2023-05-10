@@ -56,17 +56,36 @@ design:
 ---
 <b><i>Preprint</i></b><br/>
 
-<a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
 
-<a href="https://arxiv.org/abs/2207.07370">CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation</a><i><br>Lin, Jianwei; Lin, Jiatai; Lu, Cheng; Chen, Hao; Lin, Huan; Zhao, Bingchao; Shi, Zhenwei; Qiu, Bingjiang; Pan, Xipeng; Xu, Zeyan, 2022
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.13484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+
+<a href="https://arxiv.org/abs/2303.05780">Knowledge Transfer via Multi-Head Feature Adaptation for Whole Slide Image Classification</a><i><br>C Xiong, Y Lin, H Chen, J Sung, I King, 2023
+
+<a href="https://arxiv.org/abs/2301.08125">Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification</a><i><br>C Xiong, H Chen, J Sung, I King, 2023
+
+<a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
 
 <a href="https://arxiv.org/abs/2209.10307">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022
 
-<a href="https://arxiv.org/abs/2210.04227">Dual-distribution Discrepancy with Self-supervised Refinement for Anomaly Detection in Medical Images</a><i><br>Cai, Yu; Chen, Hao; Yang, Xin; Zhou, Yu; Cheng, Kwang-Ting, 2022
+<a href="https://arxiv.org/abs/2209.10307">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future dDirections</a><i><br>D Zhang, Y Lin, H Chen, Z Tian, X Yang, J Tang, KT Cheng , 2022
 
 <a href="https://arxiv.org/abs/2106.06733">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021
 
-<a href="https://arxiv.org/abs/1901.04056">The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>Patrick Bilic, Patrick Ferdinand Christ, Eugene Vorontsov, Grzegorz Chlebus, Hao Chen etc. , 2019
 
 <b>Conference</b><br/>
 
