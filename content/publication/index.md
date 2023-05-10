@@ -203,15 +203,15 @@ design:
 <b>Journal</b><br/>
 
 <i> <b>2023 </b></i><br/>
-<a href="https://ieeexplore.ieee.org/iel7/42/4359023/10056308.pdf">67. CKD-TransBTS: Clinical Knowledge-driven Hybrid Transformer with Modality-correlated Cross-attention for Brain Tumor Segmentation</a><i><br>J Lin, J Lin, C Lu, H Chen, H Lin, B Zhao, Z Shi, B Qiu, X Pan, etc<b>IEEE Transactions on Medical Imaging</b>, 2023 </br></i>
+<a href="https://ieeexplore.ieee.org/iel7/42/4359023/10056308.pdf">67. CKD-TransBTS: Clinical Knowledge-driven Hybrid Transformer with Modality-correlated Cross-attention for Brain Tumor Segmentation</a><i><br>J Lin, J Lin, C Lu, H Chen, H Lin, B Zhao, Z Shi, B Qiu, X Pan, etc. <b>IEEE Transactions on Medical Imaging</b>, 2023 </br></i>
 
-<a href="https://doi.org/10.1016/j.media.2022.102680">66. The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>P Bilic, P Christ, HB Li, E Vorontsov, A Ben-Cohen, G Kaissis, A Szeski etc <b>Medical Image Analysis</b>, 2023 </br></i>
+<a href="https://doi.org/10.1016/j.media.2022.102680">66. The Liver Tumor Segmentation Benchmark (LiTS)</a><i><br>P Bilic, P Christ, HB Li, E Vorontsov, A Ben-Cohen, G Kaissis, A Szeski etc. <b>Medical Image Analysis</b>, 2023 </br></i>
 
-<a href="https://www.mdpi.com/2074988">65. Deep Learning in Optical Coherence Tomography Angiography: Current Progress, Challenges, and Future Directions</a><i><br>D Yang, AR Ran, TX Nguyen, TPH Lin, H Chen, TYY Lai etc <b>Diagnostics</b>, 2023 </br></i>
+<a href="https://www.mdpi.com/2074988">65. Deep Learning in Optical Coherence Tomography Angiography: Current Progress, Challenges, and Future Directions</a><i><br>D Yang, AR Ran, TX Nguyen, TPH Lin, H Chen, TYY Lai etc. <b>Diagnostics</b>, 2023 </br></i>
 
-<a href="https://doi.org/10.1016/j.media.2022.102673">64. Deep Semi-Supervised Multiple Instance Learning with Self-correction for DME Classification from OCT Images</a><i><br>X Wang, F Tang, H Chen, CY Cheung, PA Heng <b>Medical Image Analysis</b>, 2023 </br></i>
+<a href="https://doi.org/10.1016/j.media.2022.102673">64. Deep Semi-Supervised Multiple Instance Learning with Self-correction for DME Classification from OCT Images</a><i><br>X Wang, F Tang, H Chen, CY Cheung, PA Heng. <b>Medical Image Analysis</b>, 2023 </br></i>
 <i> <b>2022 </b></i><br/>
-<a href="https://doi.org/10.1016/j.media.2022.102691">63. Deep Learning for Computational Cytology: A Survey</a><i><br>H Jiang, Y Zhou, Y Lin, RCK Chan, J Liu, H Chen <b>Medical Image Analysis</b>, 2022 </br></i>
+<a href="https://doi.org/10.1016/j.media.2022.102691">63. Deep Learning for Computational Cytology: A Survey</a><i><br>H Jiang, Y Zhou, Y Lin, RCK Chan, J Liu, H Chen. <b>Medical Image Analysis</b>, 2022 </br></i>
 
 <a href="https://iovs.arvojournals.org/article.aspx?articleid=2782535">62. A Deep Learning System to Predict Response to Anti-Vascular Endothelial Growth Factor (VEGF) Therapy in Eyes with Diabetic Macular Edema for Optical Coherence Tomography Images</a><i><br>Tang, Fangyao; Wang, Xi; Cai, Yu; Chen, Hao; Heng, Pheng-Ann Heng Pheng-Ann; Cheung, Carol Y. <b>Investigative Ophthalmology & Visual Science</b>, 2022 </br></i>
 
