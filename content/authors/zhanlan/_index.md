@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Lu-Yang Luo
+title: Zhan-lan Chen
 
 
 # Username (this should match the folder name)
 authors:
-  - luyang
+  - zhanlan
  
   
 # Is this the primary user of the site?
@@ -45,18 +45,18 @@ Research Interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: paperclip
-    icon_pack: fas
-    link: https://llyxc.github.io/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/luyang-luo/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=eD1O_vAAAAAJ&hl=zh-TW
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/LLYXC
+#  - icon: paperclip
+#    icon_pack: fas
+#    link: https://llyxc.github.io/
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/luyang-luo/
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com.hk/citations?user=eD1O_vAAAAAJ&hl=zh-TW
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/LLYXC
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
