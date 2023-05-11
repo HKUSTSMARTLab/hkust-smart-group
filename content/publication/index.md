@@ -56,7 +56,6 @@ design:
 ---
 <b><i>Preprint</i></b><br/>
 
-<a href="https://arxiv.org/abs/2305.00678">Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation</a><i><br>Y Lin, D Zhang, X Fang, Y Chen, KT Cheng, H Chen, 2023
 
 <a href="https://arxiv.org/abs/2304.06931">Scale Federated Learning for Label Set Mismatch in Medical Image Classification</a><i><br>Z Deng, L Luo, H Chen, 2023
 
@@ -67,10 +66,6 @@ design:
 <a href="https://arxiv.org/abs/2304.00466">Learning Agreement from Multi-source Annotations for Medical Image Segmentation</a><i><br>Y Wang, L Luo, M Wu, Q Wang, H Chen, 2023
 
 <a href="https://arxiv.org/abs/2303.15749">Iteratively Coupled Multiple Instance Learning from Instance to Bag Classifier for Whole Slide Image Classification</a><i><br>H Wang, L Luo, F Wang, R Tong, YW Chen, H Hu, L Lin, H Chen, 2023
-
-<a href="https://arxiv.org/abs/2303.15038">Image Quality-aware Diagnosis via Meta-knowledge Co-embedding</a><i><br>H Che, S Chen, H Chen, 2023
-
-<a href="https://arxiv.org/abs/2303.14373">DoNet: Deep De-overlapping Network for Cytology Instance Segmentation</a><i><br>H Jiang, R Zhang, Y Zhou, Y Wang, H Chen, 2023
 
 <a href="https://arxiv.org/abs/2303.13867">Few Shot Medical Image Segmentation with Cross Attention Transformer</a><i><br>Y Lin, Y Chen, KT Cheng, H Chen, 2023
 
@@ -84,18 +79,24 @@ design:
 
 <a href="https://arxiv.org/abs/2303.05780">Knowledge Transfer via Multi-Head Feature Adaptation for Whole Slide Image Classification</a><i><br>C Xiong, Y Lin, H Chen, J Sung, I King, 2023
 
-<a href="https://arxiv.org/abs/2301.08125">Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification</a><i><br>C Xiong, H Chen, J Sung, I King, 2023
-
 <a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
 
 <a href="https://arxiv.org/abs/2209.10307">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022
-
-<a href="https://arxiv.org/abs/2209.10307">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future dDirections</a><i><br>D Zhang, Y Lin, H Chen, Z Tian, X Yang, J Tang, KT Cheng , 2022
 
 <a href="https://arxiv.org/abs/2106.06733">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021
 
 
 <b>Conference</b><br/>
+<i> <b>2023</b> </i><br/>
+<a href="https://arxiv.org/abs/2305.00678">Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation</a><i><br>Y Lin, D Zhang, X Fang, Y Chen, KT Cheng, H Chen. <b>International Conference on Image Processing and Machine Intelligence</b>, 2023</br></i>
+
+<a href="https://arxiv.org/abs/2303.15038">Image Quality-aware Diagnosis via Meta-knowledge Co-embedding</a><i><br>H Che, S Chen, H Chen, <b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
+
+<a href="https://arxiv.org/abs/2303.14373">DoNet: Deep De-overlapping Network for Cytology Instance Segmentation</a><i><br>H Jiang, R Zhang, Y Zhou, Y Wang, H Chen, <b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
+
+Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures<i><br><b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
+
+<a href="https://arxiv.org/abs/2301.08125">Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification</a><i><br>C Xiong, H Chen, J Sung, I King, <b>International Joint Conference on Artificial Intelligence</b>, 2023</br></i>
 
 <i> <b>2022</b> </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">118. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
