@@ -88,15 +88,15 @@ design:
 
 <b>Conference</b><br/>
 <i> <b>2023</b> </i><br/>
-<a href="https://arxiv.org/abs/2305.00678">Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation</a><i><br>Y Lin, D Zhang, X Fang, Y Chen, KT Cheng, H Chen. <b>International Conference on Image Processing and Machine Intelligence</b>, 2023</br></i>
+<a href="https://arxiv.org/abs/2305.00678">123. Rethinking Boundary Detection in Deep Learning Models for Medical Image Segmentation</a><i><br>Y Lin, D Zhang, X Fang, Y Chen, KT Cheng, H Chen. <b>International Conference on Image Processing and Machine Intelligence</b>, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.15038">Image Quality-aware Diagnosis via Meta-knowledge Co-embedding</a><i><br>H Che, S Chen, H Chen, <b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
+<a href="https://arxiv.org/abs/2303.15038">122. Image Quality-aware Diagnosis via Meta-knowledge Co-embedding</a><i><br>H Che, S Chen, H Chen, <b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.14373">DoNet: Deep De-overlapping Network for Cytology Instance Segmentation</a><i><br>H Jiang, R Zhang, Y Zhou, Y Wang, H Chen, <b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
+<a href="https://arxiv.org/abs/2303.14373">121. DoNet: Deep De-overlapping Network for Cytology Instance Segmentation</a><i><br>H Jiang, R Zhang, Y Zhou, Y Wang, H Chen, <b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
 
-Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures<i><br><b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
+120. Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures<i><br><b>Conference on Computer Vision and Pattern Recognition</b>, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2301.08125">Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification</a><i><br>C Xiong, H Chen, J Sung, I King, <b>International Joint Conference on Artificial Intelligence</b>, 2023</br></i>
+<a href="https://arxiv.org/abs/2301.08125">119. Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification</a><i><br>C Xiong, H Chen, J Sung, I King, <b>International Joint Conference on Artificial Intelligence</b>, 2023</br></i>
 
 <i> <b>2022</b> </i><br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-16452-1_59">118. Pseudo Bias-Balanced Learning for Debiased Chest X-Ray Classification</a><i><br> Luo, Luyang; Xu, Dunyuan; Chen, Hao; Wong, Tien-Tsin; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2022, <b><font color="#FF0000">Early Accept</font></b></br></i>
