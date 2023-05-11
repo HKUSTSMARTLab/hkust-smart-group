@@ -94,7 +94,7 @@ design:
 
 <a href="https://arxiv.org/abs/2303.14373">121. DoNet: Deep De-overlapping Network for Cytology Instance Segmentation</a><i><br>H Jiang, R Zhang, Y Zhou, Y Wang, H Chen, <b>The IEEE / CVF Computer Vision and Pattern Recognition Conference</b>, 2023</br></i>
 
-120. Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures<i><br><b>The IEEE / CVF Computer Vision and Pattern Recognition Conference</b>, 2023</br></i>
+ 120. Sparsely Annotated Semantic Segmentation with Adaptive Gaussian Mixtures<i><br><b>The IEEE / CVF Computer Vision and Pattern Recognition Conference</b>, 2023</br></i>
 
 <a href="https://arxiv.org/abs/2301.08125">119. Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification</a><i><br>C Xiong, H Chen, J Sung, I King, <b>International Joint Conference on Artificial Intelligence</b>, 2023</br></i>
 
