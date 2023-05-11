@@ -57,33 +57,33 @@ design:
 <b><i>Preprint</i></b><br/>
 
 
-<a href="https://arxiv.org/abs/2304.06931">Scale Federated Learning for Label Set Mismatch in Medical Image Classification</a><i><br>Z Deng, L Luo, H Chen, 2023
+<a href="https://arxiv.org/abs/2304.06931">Scale Federated Learning for Label Set Mismatch in Medical Image Classification</a><i><br>Z Deng, L Luo, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2304.06662">Deep Learning in Breast Cancer Imaging: A Decade of Progress and Future Directions</a><i><br>L Luo, X Wang, Y Lin, X Ma, A Tan, R Chan etc, 2023
+<a href="https://arxiv.org/abs/2304.06662">Deep Learning in Breast Cancer Imaging: A Decade of Progress and Future Directions</a><i><br>L Luo, X Wang, Y Lin, X Ma, A Tan, R Chan etc, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2304.02389">DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images</a><i><br>B Qian, H Chen, X Wang, H Che, G Kwon, J Kim, S Choi etc, 2023
+<a href="https://arxiv.org/abs/2304.02389">DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images</a><i><br>B Qian, H Chen, X Wang, H Che, G Kwon, J Kim, S Choi etc, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2304.00466">Learning Agreement from Multi-source Annotations for Medical Image Segmentation</a><i><br>Y Wang, L Luo, M Wu, Q Wang, H Chen, 2023
+<a href="https://arxiv.org/abs/2304.00466">Learning Agreement from Multi-source Annotations for Medical Image Segmentation</a><i><br>Y Wang, L Luo, M Wu, Q Wang, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.15749">Iteratively Coupled Multiple Instance Learning from Instance to Bag Classifier for Whole Slide Image Classification</a><i><br>H Wang, L Luo, F Wang, R Tong, YW Chen, H Hu, L Lin, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.15749">Iteratively Coupled Multiple Instance Learning from Instance to Bag Classifier for Whole Slide Image Classification</a><i><br>H Wang, L Luo, F Wang, R Tong, YW Chen, H Hu, L Lin, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.13867">Few Shot Medical Image Segmentation with Cross Attention Transformer</a><i><br>Y Lin, Y Chen, KT Cheng, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.13867">Few Shot Medical Image Segmentation with Cross Attention Transformer</a><i><br>Y Lin, Y Chen, KT Cheng, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.14133">Adversarial Attack and Defense for Medical Image Analysis: Methods and Applications</a><i><br>J Dong, J Chen, X Xie, J Lai, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.14133">Adversarial Attack and Defense for Medical Image Analysis: Methods and Applications</a><i><br>J Dong, J Chen, X Xie, J Lai, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.13111">A Permutable Hybrid Network for Volumetric Medical Image Segmentation</a><i><br>Y Lin, X Fang, D Zhang, KT Cheng, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.13111">A Permutable Hybrid Network for Volumetric Medical Image Segmentation</a><i><br>Y Lin, X Fang, D Zhang, KT Cheng, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.13122">Exploring Visual Prompts for Whole Slide Image Classification with Multiple Instance Learning</a><i><br>Y Lin, Z Zhao, Z ZHU, L Wang, KT Cheng, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.13122">Exploring Visual Prompts for Whole Slide Image Classification with Multiple Instance Learning</a><i><br>Y Lin, Z Zhao, Z ZHU, L Wang, KT Cheng, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.12484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023
+<a href="https://arxiv.org/abs/2303.12484">Label-efficient Deep Learning in Medical Image Analysis: Challenges and Future Directions</a><i><br>C Jin, Z Guo, Y Lin, L Luo, H Chen, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2303.05780">Knowledge Transfer via Multi-Head Feature Adaptation for Whole Slide Image Classification</a><i><br>C Xiong, Y Lin, H Chen, J Sung, I King, 2023
+<a href="https://arxiv.org/abs/2303.05780">Knowledge Transfer via Multi-Head Feature Adaptation for Whole Slide Image Classification</a><i><br>C Xiong, Y Lin, H Chen, J Sung, I King, 2023</br></i>
 
-<a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022
+<a href="https://arxiv.org/abs/2202.08195">Label Propagation for Annotation-Efficient Nuclei Segmentation from Pathology Images</a><i><br>Lin, Yi; Qu, Zhiyong; Chen, Hao; Gao, Zhongke; Li, Yuexiang; Xia, Lili; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2022</br></i>
 
-<a href="https://arxiv.org/abs/2209.10307">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022
+<a href="https://arxiv.org/abs/2209.10307">Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</a><i><br>Zhang, Dong; Lin, Yi; Chen, Hao; Tian, Zhuotao; Yang, Xin; Tang, Jinhui; Cheng, Kwang Ting, 2022</br></i>
 
-<a href="https://arxiv.org/abs/2106.06733">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021
+<a href="https://arxiv.org/abs/2106.06733">LENAS: Learning-based Neural Architecture Search and Ensemble for 3D Radiotherapy Dose Prediction</a><i><br>Lin, Yi; Liu, Yanfei; Chen, Hao; Yang, Xin; Ma, Kai; Zheng, Yefeng; Cheng, Kwang-Ting, 2021</br></i>
 
 
 <b>Conference</b><br/>
