@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ming-hao Wang 
+title: Ming-hao Wang (Co-supervision)
 
 
 # Username (this should match the folder name)

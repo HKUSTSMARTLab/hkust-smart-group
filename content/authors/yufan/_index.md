@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yu-fan Chen
+title: Yu-fan Chen (Co-supervision)
 
 # Username (this should match the folder name)
 authors:
