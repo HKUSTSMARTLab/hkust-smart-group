@@ -24,6 +24,7 @@ The primary objective of the program is to assemble leading scientists in the fi
 
 The implementation of the IAS-focused BAM workshop is expected to yield significant benefits for both HKUST, Hong Kong's scientific community, and the overall reputation of the region in the field. By bringing together top computational biology and AI experts from across the globe, the program will foster open and extensive discussion on current knowledge and future advancements in the field. Moreover, the program will facilitate the establishment of connections among researchers. It is expected that the conference will attract around 100 participants from not only HKUST but also other universities in Hong Kong, providing a unique opportunity for faculty and students in the region to engage with world-renowned experts.
 
+For detail information, please refer to the official website: [http://ias.ust.hk/events/202306bam/](http://ias.ust.hk/events/202306bam/)
 <!--EndFragment-->
 
 <!--StartFragment-->
