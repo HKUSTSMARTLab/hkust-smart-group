@@ -1,7 +1,7 @@
 ---
 title: "[IAS 2023 Workshop] Call for Registration: Biological Data Science, AI & Medicine Workshop"
-date: 2023-06-09T11:25:28.364Z
-lastmod: 2023-06-09T11:25:28.364Z
+date: 2023-06-09T10:25:28Z
+lastmod: 2023-06-09T10:25:28Z
 summary: Our upcoming workshop on Biological Data Science, AI & Medicine is happening in Hong Kong on June 14-16! Join us for insightful talks from experts worldwide on AI's cutting-edge research and applications in life sciences and medicine.
 draft: false
 featured: false
