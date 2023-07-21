@@ -135,7 +135,7 @@ design:
 
 <a href="https://www.nature.com/articles/s41379-019-0229-5">101. Diagnostic Assessment of Recalibrated Multi-instance Deep Learning Network for Gastric Dysplasia and Adenocarcinoma in Biopsy</a><i><br>Zhu, Yaxi; Huang, Yan; Wang, Shujun; Chen, Hao; Fan, Xinjuan. <b>Modern Pathology</b>, 2019</br></i>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-32251-9_55">100. Deep Angular Embedding and Feature Correlation Attention for Breast MRI Cancer Analysis</a><i><br>Luo, Luo; Chen, Hao; Wang, Xi; Dou, Qi; Lin, Huangjing; Zhou, Juan; Li, Gongjie; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2019</br></i>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-32251-9_55">100. Deep Angular Embedding and Feature Correlation Attention for Breast MRI Cancer Analysis</a><i><br>Luo, Luyang; Chen, Hao; Wang, Xi; Dou, Qi; Lin, Huangjing; Zhou, Juan; Li, Gongjie; Heng, Pheng-Ann. <b>International Conference on Medical Image Computing and Computer-Assisted Intervention</b>, 2019</br></i>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-20351-1_53">99. CIA-Net: Robust Nuclei Instance Segmentation with Contour-Aware Information Aggregation</a><i><br>Zhou, Yanning; Onder, Omer Fahri; Dou, Qi; Tsougenis, Efstratios; Chen, Hao; Heng, Pheng-Ann. <b> International Conference on Information Processing in Medical Imaging</b>, 2019 </br></i>
 
