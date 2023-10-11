@@ -20,13 +20,12 @@ organizations:
     url: 'https://hkust.edu.hk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currrently a post-doctoral fellow in the CSE department, HKUST, working with Prof. Hao Chen. Before that, I received my Ph.D. from the CSE department, CUHK, advised by Prof. HENG Pheng-Ann and Prof. WONG, Tien-Tsin. Previously, I received my B.Sc. from the CSE department, CUHK in 2018.
+#bio: I am currrently a post-doctoral fellow in the CSE department, HKUST, working with Prof. Hao Chen. Before that, I received my Ph.D. from the CSE department, CUHK, advised by Prof. HENG Pheng-Ann and Prof. WONG, Tien-Tsin. Previously, I received my B.Sc. from the CSE department, CUHK in 2018.
 
 
-Research Interests:
-  - Trustworthy AI
-  - Efficient Learning
-  - Medical Image Analysis
+#Research Interests:
+#  - Efficient Learning
+#  - Medical Image Analysis
 
 #education:
 #  courses:
