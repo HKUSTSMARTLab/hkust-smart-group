@@ -46,7 +46,7 @@ role: PhD Student
 social:
   - icon: paperclip
     icon_pack: fas
-    link: https://chengjin.netlify.app/
+    link: https://academic.petergam.top/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cheng-jin-16b1361b6/
