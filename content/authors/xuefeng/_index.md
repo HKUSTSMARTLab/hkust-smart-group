@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xue-feng Ni
+title: Xue-Feng Ni
 
 
 # Username (this should match the folder name)
